@@ -1,3 +1,3 @@
-3GB Server:
-java -Xmx3072M -Xms3072M -jar server.jar nogui
-PAUSE
+@ECHO OFF
+java -Xms3072M -Xmx3072M -jar server.jar --nogui
+pause
