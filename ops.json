@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "ea5fd3b1-930a-4d6d-aa66-706c799098ad",
+    "name": "DesWorld",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "52a8f5dd-1e66-49c0-a512-34721b5f80ac",
+    "name": "ST0RM5",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "edea1882-0be5-4bff-988f-6a5e3cc85512",
+    "name": "Lavaisten",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "535ff6b3-7569-45ae-8251-1b8b11a4f571",
+    "name": "s0pis0ap",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e4161a00-68b4-4ede-8555-e9416f586801",
+    "name": "VictorPage",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
