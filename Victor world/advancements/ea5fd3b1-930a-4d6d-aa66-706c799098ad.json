@@ -642,6 +642,7 @@
       "minecraft:hoglin": "2021-06-27 16:21:25 +0800",
       "minecraft:spider": "2021-06-19 16:47:16 +0800",
       "minecraft:creeper": "2021-06-19 17:00:42 +0800",
+      "minecraft:slime": "2021-06-27 18:35:42 +0800",
       "minecraft:phantom": "2021-06-24 01:19:21 +0800",
       "minecraft:husk": "2021-06-22 01:08:17 +0800",
       "minecraft:cave_spider": "2021-06-24 00:12:49 +0800",
@@ -887,6 +888,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-06-20 14:34:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-06-27 18:35:54 +0800"
     },
     "done": true
   },
@@ -1172,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-06-27 18:35:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-06-19 16:21:07 +0800"
@@ -1338,6 +1351,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2021-06-20 15:54:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-06-27 17:57:54 +0800"
     },
     "done": true
   },
@@ -2521,6 +2540,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-06-22 01:25:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-06-27 18:35:54 +0800"
     },
     "done": true
   },

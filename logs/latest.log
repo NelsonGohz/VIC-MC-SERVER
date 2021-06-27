@@ -1,114 +1,50 @@
-[15:42:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:42:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:42:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:42:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:42:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:42:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:42:25] [main/INFO]: Reloading ResourceManager: Default
-[15:42:26] [Worker-Main-14/INFO]: Loaded 7 recipes
-[15:42:26] [Worker-Main-14/INFO]: Loaded 1137 advancements
-[15:42:27] [Server thread/INFO]: Starting minecraft server version 1.17
-[15:42:27] [Server thread/INFO]: Loading properties
-[15:42:27] [Server thread/INFO]: Default game type: SURVIVAL
-[15:42:27] [Server thread/INFO]: Generating keypair
-[15:42:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:42:28] [Server thread/INFO]: Using default channel type
-[15:42:28] [Server thread/INFO]: Preparing level "Victor world"
-[15:42:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:42:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:42:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:42:29] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:42:29] [Worker-Main-14/INFO]: Preparing spawn area: 4%
-[15:42:30] [Worker-Main-13/INFO]: Preparing spawn area: 14%
-[15:42:30] [Worker-Main-13/INFO]: Preparing spawn area: 57%
-[15:42:31] [Server thread/INFO]: Time elapsed: 3477 ms
-[15:42:31] [Server thread/INFO]: Done (3.557s)! For help, type "help"
-[15:43:25] [User Authenticator #1/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[15:43:26] [Server thread/INFO]: VictorPage[/121.7.67.219:57481] logged in with entity id 513 at (-64.73508511441004, 65.5625, 162.53396534660385)
-[15:43:26] [Server thread/INFO]: VictorPage joined the game
-[15:43:28] [User Authenticator #2/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[15:43:28] [Server thread/INFO]: DesWorld[/192.168.1.238:57647] logged in with entity id 525 at (-62.82317772115926, 65.0, 166.60820378669428)
-[15:43:28] [Server thread/INFO]: DesWorld joined the game
-[15:54:45] [Server thread/INFO]: DesWorld has made the advancement [Glow and Behold!]
-[16:09:36] [Server thread/INFO]: VictorPage has made the advancement [Glow and Behold!]
-[16:18:00] [Server thread/INFO]: DesWorld has made the advancement [We Need to Go Deeper]
-[16:18:00] [Server thread/INFO]: VictorPage has made the advancement [We Need to Go Deeper]
-[16:25:21] [User Authenticator #3/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
-[16:25:21] [Server thread/INFO]: ST0RM5[/180.129.65.185:3417] logged in with entity id 11621 at (233.69999998807907, 55.0, 97.63809047217194)
-[16:25:21] [Server thread/INFO]: ST0RM5 joined the game
-[16:26:59] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
-[16:26:59] [Server thread/INFO]: ST0RM5 left the game
-[16:30:09] [Server thread/INFO]: <VictorPage> BACK
-[16:30:14] [Server thread/INFO]: <VictorPage> back
-[16:38:14] [User Authenticator #4/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
-[16:38:14] [Server thread/INFO]: ST0RM5[/180.129.65.185:10125] logged in with entity id 17518 at (236.06402112677054, 70.0, 100.44304463614884)
-[16:38:14] [Server thread/INFO]: ST0RM5 joined the game
-[16:38:26] [Server thread/INFO]: <VictorPage> What are you trading it for?
-[16:38:33] [Server thread/INFO]: <VictorPage> how many quarts?
-[16:38:38] [Server thread/INFO]: <VictorPage> 2 ar
-[16:38:40] [Server thread/INFO]: <VictorPage> ok
-[16:38:47] [Server thread/INFO]: <VictorPage> 2 block daimond sounds fair?
-[16:38:49] [Server thread/INFO]: <VictorPage> 2 for 2
-[16:39:04] [Server thread/INFO]: <VictorPage> its in the mining chest, no2
-[16:44:17] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
-[16:44:17] [Server thread/INFO]: ST0RM5 left the game
-[16:44:19] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[16:44:19] [Server thread/INFO]: VictorPage left the game
-[16:44:25] [User Authenticator #5/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[16:44:25] [Server thread/INFO]: VictorPage[/121.7.67.219:60219] logged in with entity id 20183 at (218.12817585799087, 68.0, 127.79131143373577)
-[16:44:25] [Server thread/INFO]: VictorPage joined the game
-[16:44:28] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[16:44:28] [Server thread/INFO]: VictorPage left the game
-[16:44:33] [User Authenticator #6/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
-[16:44:33] [Server thread/INFO]: ST0RM5[/180.129.65.185:10942] logged in with entity id 20507 at (229.75044672725912, 66.9375, 113.4328441600449)
-[16:44:33] [Server thread/INFO]: ST0RM5 joined the game
-[16:44:38] [User Authenticator #7/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[16:44:38] [Server thread/INFO]: VictorPage[/121.7.67.219:60228] logged in with entity id 20792 at (215.26536314046743, 69.0, 131.1364509099583)
-[16:44:38] [Server thread/INFO]: VictorPage joined the game
-[16:45:14] [Server thread/INFO]: ST0RM5 fell from a high place
-[16:52:51] [Server thread/INFO]: <VictorPage> PengYang later the pick if dun wanna use can keep in yours or my chest, thanks! :D
-[16:52:54] [Server thread/INFO]: <VictorPage> byee
-[16:52:56] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[16:52:56] [Server thread/INFO]: VictorPage left the game
-[17:02:46] [Server thread/INFO]: Seed: [-8501327063542568492]
-[17:06:59] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
-[17:06:59] [Server thread/INFO]: ST0RM5 left the game
-[17:09:56] [User Authenticator #8/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
-[17:09:56] [Server thread/INFO]: ST0RM5[/180.129.65.185:13604] logged in with entity id 28166 at (254.11900440820807, 67.0, 97.86956964368464)
-[17:09:56] [Server thread/INFO]: ST0RM5 joined the game
-[17:11:11] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
-[17:11:11] [Server thread/INFO]: ST0RM5 left the game
-[17:11:56] [User Authenticator #9/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
-[17:11:56] [Server thread/INFO]: ST0RM5[/180.129.65.185:13682] logged in with entity id 28858 at (248.0044324973112, 67.0, 104.98044388228305)
-[17:11:56] [Server thread/INFO]: ST0RM5 joined the game
-[17:12:02] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
-[17:12:02] [Server thread/INFO]: ST0RM5 left the game
-[17:12:36] [User Authenticator #10/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
-[17:12:36] [Server thread/INFO]: ST0RM5[/180.129.65.185:13724] logged in with entity id 29249 at (254.30000001192093, 67.0, 101.28526903515068)
-[17:12:36] [Server thread/INFO]: ST0RM5 joined the game
-[17:13:30] [Server thread/INFO]: <DesWorld> 63 ground level
-[17:13:41] [Server thread/INFO]: <ST0RM5> 73
-[17:28:17] [Server thread/INFO]: [ST0RM5: Set own game mode to Spectator Mode]
-[17:28:19] [Server thread/INFO]: [ST0RM5: Set own game mode to Survival Mode]
-[17:29:02] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[17:29:02] [Server thread/INFO]: DesWorld left the game
-[17:29:06] [User Authenticator #11/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[17:29:06] [Server thread/INFO]: DesWorld[/192.168.1.238:62861] logged in with entity id 35590 at (-145.44777796612516, 39.0, 14.120374384260803)
-[17:29:06] [Server thread/INFO]: DesWorld joined the game
-[17:31:55] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
-[17:31:55] [Server thread/INFO]: ST0RM5 left the game
-[17:53:30] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[17:53:30] [Server thread/INFO]: DesWorld left the game
-[17:53:34] [Server thread/INFO]: Stopping the server
-[17:53:34] [Server thread/INFO]: Stopping server
-[17:53:34] [Server thread/INFO]: Saving players
-[17:53:34] [Server thread/INFO]: Saving worlds
-[17:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
-[17:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[17:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
-[17:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
-[17:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[17:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:57:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:57:12] [main/INFO]: Reloading ResourceManager: Default
+[17:57:12] [Worker-Main-12/INFO]: Loaded 7 recipes
+[17:57:13] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[17:57:14] [Server thread/INFO]: Starting minecraft server version 1.17
+[17:57:14] [Server thread/INFO]: Loading properties
+[17:57:14] [Server thread/INFO]: Default game type: SURVIVAL
+[17:57:14] [Server thread/INFO]: Generating keypair
+[17:57:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:57:14] [Server thread/INFO]: Using default channel type
+[17:57:14] [Server thread/INFO]: Preparing level "Victor world"
+[17:57:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:57:14] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:57:15] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[17:57:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:57:16] [Worker-Main-10/INFO]: Preparing spawn area: 6%
+[17:57:16] [Worker-Main-13/INFO]: Preparing spawn area: 15%
+[17:57:17] [Worker-Main-8/INFO]: Preparing spawn area: 60%
+[17:57:17] [Server thread/INFO]: Time elapsed: 3228 ms
+[17:57:17] [Server thread/INFO]: Done (3.306s)! For help, type "help"
+[17:57:21] [User Authenticator #1/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[17:57:22] [Server thread/INFO]: DesWorld[/192.168.1.238:51949] logged in with entity id 575 at (-53.19004456755769, 65.0, 158.10540161082235)
+[17:57:22] [Server thread/INFO]: DesWorld joined the game
+[17:57:29] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[17:57:29] [Server thread/INFO]: DesWorld left the game
+[17:57:38] [User Authenticator #2/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[17:57:39] [Server thread/INFO]: DesWorld[/192.168.1.238:51962] logged in with entity id 592 at (-62.61927751493275, 63.0, 154.40756443115072)
+[17:57:39] [Server thread/INFO]: DesWorld joined the game
+[18:52:03] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[18:52:03] [Server thread/INFO]: DesWorld left the game
+[18:52:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:52:09] [Server thread/INFO]: /stop//stop<--[HERE]
+[18:52:13] [Server thread/INFO]: Stopping the server
+[18:52:13] [Server thread/INFO]: Stopping server
+[18:52:13] [Server thread/INFO]: Saving players
+[18:52:13] [Server thread/INFO]: Saving worlds
+[18:52:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
+[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[18:52:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
+[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:52:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
+[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
