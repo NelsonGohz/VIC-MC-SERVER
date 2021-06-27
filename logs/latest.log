@@ -1,50 +1,44 @@
-[17:57:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:57:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:57:12] [main/INFO]: Reloading ResourceManager: Default
-[17:57:12] [Worker-Main-12/INFO]: Loaded 7 recipes
-[17:57:13] [Worker-Main-12/INFO]: Loaded 1137 advancements
-[17:57:14] [Server thread/INFO]: Starting minecraft server version 1.17
-[17:57:14] [Server thread/INFO]: Loading properties
-[17:57:14] [Server thread/INFO]: Default game type: SURVIVAL
-[17:57:14] [Server thread/INFO]: Generating keypair
-[17:57:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:57:14] [Server thread/INFO]: Using default channel type
-[17:57:14] [Server thread/INFO]: Preparing level "Victor world"
-[17:57:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:57:14] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[17:57:15] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[17:57:15] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[17:57:16] [Worker-Main-10/INFO]: Preparing spawn area: 6%
-[17:57:16] [Worker-Main-13/INFO]: Preparing spawn area: 15%
-[17:57:17] [Worker-Main-8/INFO]: Preparing spawn area: 60%
-[17:57:17] [Server thread/INFO]: Time elapsed: 3228 ms
-[17:57:17] [Server thread/INFO]: Done (3.306s)! For help, type "help"
-[17:57:21] [User Authenticator #1/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[17:57:22] [Server thread/INFO]: DesWorld[/192.168.1.238:51949] logged in with entity id 575 at (-53.19004456755769, 65.0, 158.10540161082235)
-[17:57:22] [Server thread/INFO]: DesWorld joined the game
-[17:57:29] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[17:57:29] [Server thread/INFO]: DesWorld left the game
-[17:57:38] [User Authenticator #2/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[17:57:39] [Server thread/INFO]: DesWorld[/192.168.1.238:51962] logged in with entity id 592 at (-62.61927751493275, 63.0, 154.40756443115072)
-[17:57:39] [Server thread/INFO]: DesWorld joined the game
-[18:52:03] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[18:52:03] [Server thread/INFO]: DesWorld left the game
-[18:52:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:52:09] [Server thread/INFO]: /stop//stop<--[HERE]
-[18:52:13] [Server thread/INFO]: Stopping the server
-[18:52:13] [Server thread/INFO]: Stopping server
-[18:52:13] [Server thread/INFO]: Saving players
-[18:52:13] [Server thread/INFO]: Saving worlds
-[18:52:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
-[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[18:52:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
-[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:52:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
-[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:52:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:10:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:10:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:10:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:10:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:10:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:10:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:10:59] [main/INFO]: Reloading ResourceManager: Default
+[22:10:59] [Worker-Main-10/INFO]: Loaded 7 recipes
+[22:11:00] [Worker-Main-10/INFO]: Loaded 1137 advancements
+[22:11:01] [Server thread/INFO]: Starting minecraft server version 1.17
+[22:11:01] [Server thread/INFO]: Loading properties
+[22:11:01] [Server thread/INFO]: Default game type: SURVIVAL
+[22:11:01] [Server thread/INFO]: Generating keypair
+[22:11:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:11:01] [Server thread/INFO]: Using default channel type
+[22:11:01] [Server thread/INFO]: Preparing level "Victor world"
+[22:11:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:11:01] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:11:01] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:11:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[22:11:02] [Worker-Main-13/INFO]: Preparing spawn area: 7%
+[22:11:03] [Worker-Main-9/INFO]: Preparing spawn area: 30%
+[22:11:03] [Worker-Main-9/INFO]: Preparing spawn area: 82%
+[22:11:04] [Server thread/INFO]: Time elapsed: 2950 ms
+[22:11:04] [Server thread/INFO]: Done (3.026s)! For help, type "help"
+[22:11:38] [User Authenticator #1/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[22:11:38] [Server thread/INFO]: DesWorld[/192.168.1.238:62979] logged in with entity id 625 at (-81.98632798850454, 68.0, 160.5399204459059)
+[22:11:38] [Server thread/INFO]: DesWorld joined the game
+[22:49:38] [Server thread/INFO]: DesWorld has made the advancement [Total Beelocation]
+[23:05:01] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[23:05:01] [Server thread/INFO]: DesWorld left the game
+[23:05:06] [Server thread/INFO]: Stopping the server
+[23:05:06] [Server thread/INFO]: Stopping server
+[23:05:06] [Server thread/INFO]: Saving players
+[23:05:06] [Server thread/INFO]: Saving worlds
+[23:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
+[23:05:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[23:05:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
+[23:05:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:05:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
+[23:05:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:05:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[23:05:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:05:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
