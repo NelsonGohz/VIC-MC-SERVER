@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2021-06-22 21:42:10 +0800"
@@ -605,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-06-19 16:29:12 +0800"
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-06-22 12:58:59 +0800"
@@ -764,6 +782,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2021-06-17 14:52:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
     },
     "done": true
   },
@@ -1088,6 +1112,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2021-06-19 16:29:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
     },
     "done": true
   },
@@ -1932,6 +1962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-06-17 14:48:08 +0800"
@@ -1977,6 +2013,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-22 12:58:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
     },
     "done": true
   },
@@ -2541,6 +2583,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2021-06-28 21:02:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
     },
     "done": true
   },
@@ -3882,6 +3930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2021-06-28 17:33:19 +0800"
@@ -4506,6 +4560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-06-28 17:36:08 +0800"
@@ -4731,6 +4791,12 @@
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2021-06-20 15:13:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-07-01 01:48:37 +0800"
     },
     "done": true
   },
