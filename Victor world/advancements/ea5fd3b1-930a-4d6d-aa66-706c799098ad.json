@@ -2313,9 +2313,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2021-07-01 01:01:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2021-06-20 14:33:36 +0800",
+      "sweet_berries": "2021-07-01 00:04:31 +0800",
       "cooked_beef": "2021-06-19 15:51:06 +0800",
       "bread": "2021-06-19 16:31:11 +0800",
       "cooked_chicken": "2021-06-20 14:42:24 +0800",
@@ -3060,6 +3067,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2021-06-22 20:02:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-07-01 01:01:48 +0800"
     },
     "done": true
   },
