@@ -1,66 +1,71 @@
-[19:19:59] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:19:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:19:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:19:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:19:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:19:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:19:59] [main/INFO]: Reloading ResourceManager: Default
-[19:20:00] [Worker-Main-13/INFO]: Loaded 7 recipes
-[19:20:00] [Worker-Main-13/INFO]: Loaded 1137 advancements
-[19:20:01] [Server thread/INFO]: Starting minecraft server version 1.17
-[19:20:01] [Server thread/INFO]: Loading properties
-[19:20:01] [Server thread/INFO]: Default game type: SURVIVAL
-[19:20:01] [Server thread/INFO]: Generating keypair
-[19:20:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:20:02] [Server thread/INFO]: Using default channel type
-[19:20:02] [Server thread/INFO]: Preparing level "Victor world"
-[19:20:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:20:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[19:20:03] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:20:03] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[19:20:04] [Worker-Main-12/INFO]: Preparing spawn area: 1%
-[19:20:04] [Worker-Main-11/INFO]: Preparing spawn area: 4%
-[19:20:05] [Worker-Main-11/INFO]: Preparing spawn area: 22%
-[19:20:05] [Worker-Main-11/INFO]: Preparing spawn area: 50%
-[19:20:06] [Server thread/INFO]: Time elapsed: 4207 ms
-[19:20:06] [Server thread/INFO]: Done (4.360s)! For help, type "help"
-[19:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:20:10] [User Authenticator #1/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[19:20:10] [User Authenticator #2/INFO]: UUID of player s0pis0ap is 535ff6b3-7569-45ae-8251-1b8b11a4f571
-[19:20:11] [Server thread/INFO]: DesWorld[/192.168.1.238:56611] logged in with entity id 857 at (242.77505867837112, 63.0, -815.967633199228)
-[19:20:11] [Server thread/INFO]: DesWorld joined the game
-[19:20:12] [Server thread/INFO]: s0pis0ap[/119.74.150.64:60459] logged in with entity id 858 at (-55.140077046321586, 63.0, 151.70429581979536)
-[19:20:12] [Server thread/INFO]: s0pis0ap joined the game
-[19:20:14] [User Authenticator #3/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[19:20:14] [Server thread/INFO]: VictorPage[/121.7.67.219:53199] logged in with entity id 889 at (-49.32335041264812, 64.0, 158.57303656049498)
-[19:20:14] [Server thread/INFO]: VictorPage joined the game
-[19:20:24] [User Authenticator #4/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
-[19:20:24] [Server thread/INFO]: Lavaisten[/121.7.67.219:63172] logged in with entity id 1028 at (-47.888838814620584, 59.0, 163.79238095424554)
-[19:20:24] [Server thread/INFO]: Lavaisten joined the game
-[19:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9572ms or 191 ticks behind
-[19:21:04] [Server thread/INFO]: s0pis0ap lost connection: Disconnected
-[19:21:04] [Server thread/INFO]: s0pis0ap left the game
-[19:21:32] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[19:21:32] [Server thread/INFO]: VictorPage left the game
-[19:21:34] [User Authenticator #5/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[19:21:34] [Server thread/INFO]: VictorPage[/121.7.67.219:53215] logged in with entity id 1573 at (-54.218372094328785, 59.0, 161.2628397199599)
-[19:21:34] [Server thread/INFO]: VictorPage joined the game
-[19:21:44] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[19:21:44] [Server thread/INFO]: VictorPage left the game
-[19:21:46] [Server thread/INFO]: Lavaisten lost connection: Disconnected
-[19:21:46] [Server thread/INFO]: Lavaisten left the game
-[19:22:22] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[19:22:22] [Server thread/INFO]: DesWorld left the game
-[19:22:27] [Server thread/INFO]: Stopping the server
-[19:22:27] [Server thread/INFO]: Stopping server
-[19:22:27] [Server thread/INFO]: Saving players
-[19:22:27] [Server thread/INFO]: Saving worlds
-[19:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
-[19:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[19:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
-[19:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
-[19:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[19:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:22:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:05:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:05:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:05:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:05:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:05:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:05:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:05:39] [main/INFO]: Reloading ResourceManager: Default
+[20:05:41] [Worker-Main-11/INFO]: Loaded 7 recipes
+[20:05:41] [Worker-Main-11/INFO]: Loaded 1137 advancements
+[20:05:43] [Server thread/INFO]: Starting minecraft server version 1.17
+[20:05:43] [Server thread/INFO]: Loading properties
+[20:05:43] [Server thread/INFO]: Default game type: SURVIVAL
+[20:05:43] [Server thread/INFO]: Generating keypair
+[20:05:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:05:43] [Server thread/INFO]: Using default channel type
+[20:05:44] [Server thread/INFO]: Preparing level "Victor world"
+[20:05:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:05:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:05:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:05:45] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:05:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:05:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:05:47] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:05:47] [Worker-Main-11/INFO]: Preparing spawn area: 1%
+[20:05:48] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[20:05:48] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[20:05:49] [Worker-Main-8/INFO]: Preparing spawn area: 8%
+[20:05:49] [Worker-Main-8/INFO]: Preparing spawn area: 9%
+[20:05:50] [Worker-Main-11/INFO]: Preparing spawn area: 24%
+[20:05:50] [Worker-Main-12/INFO]: Preparing spawn area: 43%
+[20:05:51] [Worker-Main-8/INFO]: Preparing spawn area: 72%
+[20:05:51] [Worker-Main-12/INFO]: Preparing spawn area: 87%
+[20:05:53] [Server thread/INFO]: Time elapsed: 9102 ms
+[20:05:53] [Server thread/INFO]: Done (9.287s)! For help, type "help"
+[20:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[20:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18701ms or 374 ticks behind
+[20:06:58] [User Authenticator #1/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[20:06:59] [Server thread/INFO]: VictorPage[/192.168.1.7:51617] logged in with entity id 768 at (-55.69729968114875, 59.0, 162.28501785867806)
+[20:06:59] [Server thread/INFO]: VictorPage joined the game
+[20:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4385ms or 87 ticks behind
+[20:08:13] [User Authenticator #2/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
+[20:08:14] [Server thread/INFO]: Lavaisten[/192.168.1.50:49989] logged in with entity id 1075 at (-44.88945275240208, 58.5, 163.39735547444144)
+[20:08:14] [Server thread/INFO]: Lavaisten joined the game
+[20:21:15] [Server thread/INFO]: Villager bjq['Cleric'/686, l='ServerLevel[Victor world]', x=-30.30, y=65.00, z=132.30] died, message: 'Cleric was slain by Bean'
+[20:21:24] [Server thread/INFO]: Villager bjq['Cleric'/685, l='ServerLevel[Victor world]', x=-30.30, y=65.00, z=130.30] died, message: 'Cleric was slain by Bean'
+[20:23:58] [Server thread/INFO]: Villager bjq['Fletcher'/659, l='ServerLevel[Victor world]', x=-44.63, y=66.00, z=132.30] died, message: 'Fletcher was slain by Sawney'
+[20:25:49] [Server thread/INFO]: Lavaisten has reached the goal [Zombie Doctor]
+[20:33:40] [Server thread/INFO]: Lavaisten has made the advancement [We Need to Go Deeper]
+[20:50:06] [Server thread/INFO]: Villager bjq['Fletcher'/660, l='ServerLevel[Victor world]', x=-44.70, y=65.00, z=134.30] died, message: 'Fletcher was slain by Sawney'
+[22:05:07] [Server thread/INFO]: Villager bjq['Butcher'/661, l='ServerLevel[Victor world]', x=-44.70, y=65.00, z=138.70] died, message: 'Butcher was slain by Sawney'
+[22:05:19] [Server thread/INFO]: Villager bjq['Butcher'/663, l='ServerLevel[Victor world]', x=-44.70, y=65.00, z=136.30] died, message: 'Butcher was slain by Sawney'
+[22:41:03] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[22:41:03] [Server thread/INFO]: VictorPage left the game
+[22:46:15] [Server thread/INFO]: Lavaisten lost connection: Disconnected
+[22:46:15] [Server thread/INFO]: Lavaisten left the game
+[22:46:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:46:22] [Server thread/INFO]: CoordinatesBase: -55 65 1stop<--[HERE]
+[22:46:24] [Server thread/INFO]: Stopping the server
+[22:46:24] [Server thread/INFO]: Stopping server
+[22:46:24] [Server thread/INFO]: Saving players
+[22:46:24] [Server thread/INFO]: Saving worlds
+[22:46:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
+[22:46:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[22:46:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
+[22:46:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:46:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
+[22:46:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:46:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[22:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
