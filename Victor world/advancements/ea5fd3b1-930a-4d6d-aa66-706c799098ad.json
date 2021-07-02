@@ -863,6 +863,7 @@
       "minecraft:slime": "2021-06-27 18:35:42 +0800",
       "minecraft:phantom": "2021-06-24 01:19:21 +0800",
       "minecraft:zombified_piglin": "2021-06-29 18:37:58 +0800",
+      "minecraft:witch": "2021-07-02 15:12:09 +0800",
       "minecraft:wither_skeleton": "2021-06-28 17:34:29 +0800",
       "minecraft:husk": "2021-06-22 01:08:17 +0800",
       "minecraft:cave_spider": "2021-06-24 00:12:49 +0800",
@@ -1239,6 +1240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2021-07-02 15:09:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2021-06-29 00:30:19 +0800"
@@ -1404,6 +1411,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-06-19 15:39:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-07-02 15:12:23 +0800"
     },
     "done": true
   },
@@ -2913,6 +2926,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-06-19 16:57:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-07-02 15:12:23 +0800"
     },
     "done": true
   },
