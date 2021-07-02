@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2021-07-02 17:30:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2021-06-17 16:11:45 +0800"
@@ -854,6 +860,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2021-06-17 14:52:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2021-07-02 17:30:31 +0800"
     },
     "done": true
   },
@@ -1587,6 +1599,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-07-02 16:16:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2021-06-17 15:11:13 +0800"
@@ -2245,6 +2263,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2021-07-02 16:53:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2021-06-17 14:35:52 +0800"
@@ -2821,6 +2845,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2021-07-02 16:12:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2021-06-25 00:54:53 +0800"
@@ -2950,6 +2980,7 @@
       "minecraft:hoglin": "2021-06-27 16:18:24 +0800",
       "minecraft:magma_cube": "2021-06-28 18:02:08 +0800",
       "minecraft:spider": "2021-06-17 16:19:10 +0800",
+      "minecraft:piglin_brute": "2021-07-02 16:53:13 +0800",
       "minecraft:creeper": "2021-06-17 14:40:05 +0800",
       "minecraft:slime": "2021-06-17 20:17:54 +0800",
       "minecraft:phantom": "2021-06-25 12:48:34 +0800",
@@ -3569,6 +3600,7 @@
       "minecraft:deep_lukewarm_ocean": "2021-07-01 18:47:34 +0800",
       "minecraft:savanna_plateau": "2021-06-17 15:05:39 +0800",
       "minecraft:beach": "2021-06-17 20:19:46 +0800",
+      "minecraft:dark_forest": "2021-07-02 15:27:04 +0800",
       "minecraft:river": "2021-06-17 14:37:23 +0800",
       "minecraft:lukewarm_ocean": "2021-07-01 18:46:43 +0800",
       "minecraft:wooded_mountains": "2021-07-01 19:06:52 +0800",
@@ -3637,6 +3669,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2021-06-29 01:26:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-07-02 16:47:21 +0800"
     },
     "done": true
   },
@@ -4669,6 +4707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-07-02 16:16:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2021-06-28 23:30:08 +0800"
@@ -4810,6 +4854,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2021-07-01 19:01:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2021-07-02 17:30:31 +0800"
     },
     "done": true
   },
