@@ -1,201 +1,76 @@
-[12:52:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:52:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:52:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:52:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:52:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:52:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:52:20] [main/INFO]: Reloading ResourceManager: Default
-[12:52:22] [Worker-Main-14/INFO]: Loaded 7 recipes
-[12:52:23] [Worker-Main-14/INFO]: Loaded 1137 advancements
-[12:52:25] [Server thread/INFO]: Starting minecraft server version 1.17
-[12:52:25] [Server thread/INFO]: Loading properties
-[12:52:25] [Server thread/INFO]: Default game type: SURVIVAL
-[12:52:25] [Server thread/INFO]: Generating keypair
-[12:52:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:52:25] [Server thread/INFO]: Using default channel type
-[12:52:26] [Server thread/INFO]: Preparing level "Victor world"
-[12:52:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:52:27] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:52:27] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:52:27] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[12:52:28] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:52:28] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[12:52:29] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[12:52:29] [Worker-Main-11/INFO]: Preparing spawn area: 1%
-[12:52:30] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[12:52:30] [Worker-Main-12/INFO]: Preparing spawn area: 5%
-[12:52:31] [Worker-Main-11/INFO]: Preparing spawn area: 13%
-[12:52:31] [Worker-Main-8/INFO]: Preparing spawn area: 47%
-[12:52:32] [Worker-Main-10/INFO]: Preparing spawn area: 63%
-[12:52:35] [Server thread/INFO]: Time elapsed: 8646 ms
-[12:52:35] [Server thread/INFO]: Done (8.788s)! For help, type "help"
-[12:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[12:54:46] [User Authenticator #1/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[12:54:47] [Server thread/INFO]: VictorPage[/192.168.1.7:49594] logged in with entity id 369 at (-62.16689758568669, 59.0, 166.0294729357653)
-[12:54:48] [Server thread/INFO]: VictorPage joined the game
-[12:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
-[13:15:35] [Server thread/INFO]: [VictorPage: Set own game mode to Spectator Mode]
-[13:15:55] [Server thread/INFO]: [VictorPage: Set own game mode to Survival Mode]
-[13:45:24] [User Authenticator #2/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
-[13:45:24] [Server thread/INFO]: Lavaisten[/192.168.1.50:60533] logged in with entity id 10975 at (-83.9287094794783, 54.0, 118.25921204826284)
-[13:45:24] [Server thread/INFO]: Lavaisten joined the game
-[13:46:27] [Server thread/INFO]: Lavaisten lost connection: Disconnected
-[13:46:27] [Server thread/INFO]: Lavaisten left the game
-[13:47:16] [User Authenticator #3/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
-[13:47:17] [Server thread/INFO]: Lavaisten[/192.168.1.50:60615] logged in with entity id 11425 at (-90.29432430523104, 54.0, 116.1190437013591)
-[13:47:17] [Server thread/INFO]: Lavaisten joined the game
-[13:52:27] [Server thread/INFO]: Lavaisten lost connection: Disconnected
-[13:53:01] [Server thread/INFO]: Lavaisten left the game
-[13:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33585ms or 671 ticks behind
-[13:53:01] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[13:53:01] [Server thread/INFO]: VictorPage left the game
-[13:53:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@77b67576[id=<null>,name=VictorPage,properties={},legacy=false] (/192.168.1.7:59199) lost connection: Disconnected
-[13:53:09] [User Authenticator #4/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[13:53:09] [Server thread/INFO]: VictorPage[/192.168.1.7:59212] logged in with entity id 12366 at (-55.18174994447325, 59.0, 161.18378577331197)
-[13:53:09] [Server thread/INFO]: VictorPage joined the game
-[13:53:55] [User Authenticator #5/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
-[13:53:55] [Server thread/INFO]: Lavaisten[/192.168.1.50:60853] logged in with entity id 12520 at (-57.26531705671294, 54.0, 115.52973855041142)
-[13:53:55] [Server thread/INFO]: Lavaisten joined the game
-[14:24:41] [Server thread/INFO]: Lavaisten has completed the challenge [Return to Sender]
-[14:28:44] [User Authenticator #6/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[14:28:44] [Server thread/INFO]: DesWorld[/119.74.38.77:60082] logged in with entity id 20818 at (-50.979163699903665, 65.0, 164.08130843111067)
-[14:28:44] [Server thread/INFO]: DesWorld joined the game
-[14:37:33] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[14:37:33] [Server thread/INFO]: VictorPage left the game
-[14:37:57] [User Authenticator #7/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[14:37:57] [Server thread/INFO]: VictorPage[/192.168.1.7:54288] logged in with entity id 23075 at (-87.86207635774811, 63.0, 174.38497854355828)
-[14:37:57] [Server thread/INFO]: VictorPage joined the game
-[14:39:48] [Server thread/INFO]: <VictorPage> Greaves
-[14:39:59] [Server thread/INFO]: <VictorPage> Victrolite Graves
-[14:40:04] [Server thread/INFO]: <VictorPage> Victrolite Greaves
-[14:46:09] [Server thread/INFO]: <Lavaisten> shh
-[14:46:22] [Server thread/INFO]: <DesWorld> what happen
-[14:46:27] [Server thread/INFO]: <Lavaisten> he got call
-[14:46:29] [Server thread/INFO]: <DesWorld> oh
-[14:46:39] [Server thread/INFO]: <Lavaisten> sweeping edge 3 bah hahaha
-[14:46:44] [Server thread/INFO]: <DesWorld> that mean
-[14:46:49] [Server thread/INFO]: <Lavaisten> since you so many lvl
-[14:47:05] [Server thread/INFO]: <DesWorld> i cant go for 3 for this enchant rn
-[14:47:13] [Server thread/INFO]: <DesWorld> so i just skip it ba
-[14:47:18] [Server thread/INFO]: <Lavaisten> okay
-[14:48:03] [Server thread/INFO]: <DesWorld> FUCK
-[14:48:14] [Server thread/INFO]: <Lavaisten> ?
-[14:48:16] [Server thread/INFO]: <DesWorld> check this
-[14:48:34] [Server thread/INFO]: <Lavaisten> throw to vic
-[14:48:42] [Server thread/INFO]: <DesWorld> ok
-[14:48:50] [Server thread/INFO]: <DesWorld> fml
-[14:49:07] [Server thread/INFO]: <DesWorld> i still think sharpness better
-[14:49:07] [Server thread/INFO]: <VictorPage> whoa nb
-[14:49:12] [Server thread/INFO]: <VictorPage> yeah
-[14:49:18] [Server thread/INFO]: <DesWorld> remove?
-[14:49:22] [Server thread/INFO]: <Lavaisten> yes please
-[14:56:16] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[14:56:16] [Server thread/INFO]: VictorPage left the game
-[14:56:19] [User Authenticator #8/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[14:56:19] [Server thread/INFO]: VictorPage[/192.168.1.7:59878] logged in with entity id 28316 at (-87.25362989686018, 57.0, 168.29534508650977)
-[14:56:20] [Server thread/INFO]: VictorPage joined the game
-[15:07:57] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[15:07:57] [Server thread/INFO]: VictorPage left the game
-[15:08:26] [User Authenticator #9/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[15:08:26] [Server thread/INFO]: VictorPage[/192.168.1.7:60780] logged in with entity id 30787 at (-84.03889161064383, 60.5, 167.3081667627265)
-[15:08:26] [Server thread/INFO]: VictorPage joined the game
-[15:14:24] [Server thread/INFO]: <VictorPage> level 1/4
-[15:19:20] [Server thread/INFO]: Lavaisten lost connection: Disconnected
-[15:19:20] [Server thread/INFO]: Lavaisten left the game
-[15:19:21] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[15:19:21] [Server thread/INFO]: DesWorld left the game
-[15:19:27] [User Authenticator #10/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[15:19:27] [Server thread/INFO]: DesWorld[/119.74.38.77:60203] logged in with entity id 34078 at (409.3040089521175, 73.0, 110.53920267242735)
-[15:19:27] [Server thread/INFO]: DesWorld joined the game
-[15:19:27] [User Authenticator #11/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
-[15:19:28] [Server thread/INFO]: Lavaisten[/192.168.1.50:54314] logged in with entity id 34085 at (393.28316315726323, 69.0, 100.30931821488943)
-[15:19:28] [Server thread/INFO]: Lavaisten joined the game
-[15:28:53] [Server thread/INFO]: [VictorPage: Created team [Degenerates]]
-[15:29:15] [Server thread/INFO]: [VictorPage: Added DesWorld to team [Degenerates]]
-[15:29:59] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to yellow]
-[15:30:26] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to gold]
-[15:30:39] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to aqua]
-[15:30:44] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to red]
-[15:31:17] [Server thread/INFO]: <Lavaisten> 984 63 106
-[15:31:44] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to white]
-[15:31:49] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to black]
-[15:31:56] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to yellow]
-[15:32:07] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to white]
-[15:32:25] [Server thread/INFO]: [VictorPage: Updated the color for team [Degenerates] to light_purple]
-[15:33:35] [Server thread/INFO]: [DesWorld: The difficulty has been set to Easy]
-[16:00:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-88, y=58, z=165} gg{x=-88, y=57, z=169}
-[16:12:17] [Server thread/INFO]: Lavaisten lost connection: Disconnected
-[16:12:17] [Server thread/INFO]: Lavaisten left the game
-[16:14:36] [User Authenticator #12/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
-[16:14:37] [Server thread/INFO]: Lavaisten[/192.168.1.50:56559] logged in with entity id 59580 at (2645.426269949602, 8.0, 542.4088517436111)
-[16:14:37] [Server thread/INFO]: Lavaisten joined the game
-[16:23:49] [Server thread/INFO]: Lavaisten lost connection: Disconnected
-[16:23:49] [Server thread/INFO]: Lavaisten left the game
-[16:26:01] [User Authenticator #13/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
-[16:26:01] [Server thread/INFO]: Lavaisten[/192.168.1.50:56933] logged in with entity id 64906 at (2601.437036406678, 10.0, 541.6585855113219)
-[16:26:01] [Server thread/INFO]: Lavaisten joined the game
-[16:38:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2506, y=12, z=573} gg{x=2507, y=11, z=572}
-[16:38:53] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2504, y=11, z=582} gg{x=2503, y=10, z=582}
-[16:38:53] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2504, y=11, z=582} gg{x=2503, y=10, z=582}
-[16:38:53] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2504, y=11, z=582} gg{x=2503, y=10, z=582}
-[16:38:53] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2504, y=11, z=582} gg{x=2503, y=10, z=582}
-[16:38:59] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2505, y=10, z=577} gg{x=2505, y=9, z=576}
-[16:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[16:52:14] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2410, y=9, z=495} gg{x=2411, y=8, z=494}
-[16:52:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2408, y=7, z=494} gg{x=2407, y=6, z=493}
-[16:52:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2409, y=7, z=493} gg{x=2409, y=7, z=492}
-[16:52:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2409, y=7, z=493} gg{x=2409, y=7, z=492}
-[16:52:18] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2409, y=7, z=493} gg{x=2409, y=7, z=492}
-[16:52:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2409, y=7, z=493} gg{x=2409, y=7, z=492}
-[16:52:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2409, y=7, z=493} gg{x=2409, y=7, z=492}
-[16:52:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2409, y=7, z=493} gg{x=2409, y=7, z=492}
-[16:52:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2410, y=7, z=501} gg{x=2409, y=7, z=501}
-[16:56:31] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2316, y=9, z=493} gg{x=2317, y=9, z=495}
-[16:56:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2319, y=9, z=491} gg{x=2319, y=7, z=491}
-[17:08:29] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2130, y=14, z=495} gg{x=2130, y=13, z=494}
-[17:08:44] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2125, y=15, z=493} gg{x=2127, y=13, z=496}
-[17:08:46] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2124, y=14, z=493} gg{x=2124, y=13, z=495}
-[17:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[17:14:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2019, y=8, z=503} gg{x=2016, y=7, z=504}
-[17:14:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2023, y=10, z=504} gg{x=2022, y=9, z=504}
-[17:14:43] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=2023, y=10, z=504} gg{x=2022, y=9, z=504}
-[17:24:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[17:30:49] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[17:30:49] [Server thread/INFO]: DesWorld left the game
-[17:30:51] [User Authenticator #14/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[17:30:51] [Server thread/INFO]: DesWorld[/119.74.38.77:60494] logged in with entity id 96255 at (1890.5283476186012, 101.0, 867.4254422865325)
-[17:30:51] [Server thread/INFO]: DesWorld joined the game
-[17:33:42] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-54, y=63, z=168} gg{x=-54, y=62, z=167}
-[17:46:35] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-60, y=60, z=175} gg{x=-60, y=59, z=175}
-[17:46:35] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-60, y=60, z=175} gg{x=-60, y=59, z=175}
-[17:46:39] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-58, y=60, z=177} gg{x=-57, y=60, z=177}
-[17:46:47] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-63, y=60, z=177} gg{x=-64, y=60, z=178}
-[17:46:50] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-65, y=60, z=178} gg{x=-66, y=60, z=179}
-[18:02:36] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-37, y=59, z=125} gg{x=-36, y=60, z=125}
-[18:54:13] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-66, y=61, z=177} gg{x=-65, y=56, z=180}
-[19:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:24:03] [Server thread/INFO]: Lavaisten has made the advancement [A Terrible Fortress]
-[19:24:11] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[19:24:11] [Server thread/INFO]: DesWorld left the game
-[19:25:44] [Server thread/INFO]: Lavaisten has made the advancement [Into Fire]
-[19:30:07] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=117, y=54, z=177} gg{x=117, y=55, z=177}
-[19:30:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=117, y=54, z=177} gg{x=117, y=55, z=177}
-[19:30:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=117, y=54, z=177} gg{x=117, y=55, z=177}
-[19:30:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=117, y=54, z=177} gg{x=117, y=55, z=177}
-[19:32:17] [Server thread/INFO]: Lavaisten lost connection: Disconnected
-[19:32:17] [Server thread/INFO]: Lavaisten left the game
-[19:32:17] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[19:32:17] [Server thread/INFO]: VictorPage left the game
-[19:32:27] [Server thread/INFO]: Stopping the server
-[19:32:27] [Server thread/INFO]: Stopping server
-[19:32:27] [Server thread/INFO]: Saving players
-[19:32:27] [Server thread/INFO]: Saving worlds
-[19:32:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
-[19:32:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[19:32:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
-[19:32:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:32:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
-[19:32:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:32:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[19:32:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:32:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:40:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:40:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:40:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:40:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:40:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:40:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:40:13] [main/INFO]: Reloading ResourceManager: Default
+[19:40:14] [Worker-Main-11/INFO]: Loaded 7 recipes
+[19:40:15] [Worker-Main-11/INFO]: Loaded 1137 advancements
+[19:40:18] [Server thread/INFO]: Starting minecraft server version 1.17
+[19:40:18] [Server thread/INFO]: Loading properties
+[19:40:18] [Server thread/INFO]: Default game type: SURVIVAL
+[19:40:18] [Server thread/INFO]: Generating keypair
+[19:40:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:40:18] [Server thread/INFO]: Using default channel type
+[19:40:19] [Server thread/INFO]: Preparing level "Victor world"
+[19:40:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:40:20] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:40:21] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:40:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:40:21] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:40:22] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:40:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:40:23] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[19:40:23] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[19:40:24] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[19:40:24] [Worker-Main-13/INFO]: Preparing spawn area: 21%
+[19:40:25] [Worker-Main-11/INFO]: Preparing spawn area: 31%
+[19:40:25] [Worker-Main-13/INFO]: Preparing spawn area: 53%
+[19:40:26] [Worker-Main-14/INFO]: Preparing spawn area: 81%
+[19:40:28] [Server thread/INFO]: Time elapsed: 8628 ms
+[19:40:28] [Server thread/INFO]: Done (8.949s)! For help, type "help"
+[19:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[19:41:22] [User Authenticator #1/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
+[19:41:23] [Server thread/INFO]: Lavaisten[/192.168.1.50:49581] logged in with entity id 377 at (37.929167701736745, 53.0, 187.62068890936428)
+[19:41:24] [Server thread/INFO]: Lavaisten joined the game
+[19:41:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
+[19:42:11] [Server thread/INFO]: <Lavaisten> ha
+[19:42:38] [User Authenticator #2/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[19:42:39] [Server thread/INFO]: VictorPage[/192.168.1.7:51759] logged in with entity id 664 at (74.28437302185716, 61.0, 201.4682899577268)
+[19:42:39] [Server thread/INFO]: VictorPage joined the game
+[19:43:33] [Server thread/INFO]: [VictorPage: The difficulty has been set to Easy]
+[19:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[19:51:33] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-22, y=32, z=268} gg{x=-23, y=33, z=268}
+[20:00:15] [Server thread/INFO]: Lavaisten lost connection: Disconnected
+[20:00:15] [Server thread/INFO]: Lavaisten left the game
+[20:00:33] [User Authenticator #3/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
+[20:00:33] [Server thread/INFO]: Lavaisten[/192.168.1.50:55348] logged in with entity id 3609 at (16.30000001192093, 30.79795127250452, 353.5134172232068)
+[20:00:33] [Server thread/INFO]: Lavaisten joined the game
+[20:00:33] [Server thread/INFO]: [VictorPage: Teleported Lavaisten to VictorPage]
+[20:20:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=70, y=54, z=778} gg{x=181, y=61, z=763}
+[20:20:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=70, y=54, z=778} gg{x=181, y=61, z=763}
+[20:20:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=70, y=54, z=778} gg{x=181, y=61, z=763}
+[20:20:57] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=70, y=54, z=778} gg{x=181, y=61, z=763}
+[20:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=139, y=58, z=706} gg{x=67, y=74, z=802}
+[20:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=139, y=58, z=706} gg{x=67, y=74, z=802}
+[20:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=139, y=58, z=706} gg{x=67, y=74, z=802}
+[20:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=139, y=58, z=706} gg{x=67, y=74, z=802}
+[20:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=139, y=58, z=706} gg{x=67, y=74, z=802}
+[20:32:22] [Server thread/INFO]: Lavaisten lost connection: Disconnected
+[20:32:22] [Server thread/INFO]: Lavaisten left the game
+[20:32:22] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[20:32:22] [Server thread/INFO]: VictorPage left the game
+[20:32:32] [Server thread/INFO]: Stopping the server
+[20:32:32] [Server thread/INFO]: Stopping server
+[20:32:32] [Server thread/INFO]: Saving players
+[20:32:32] [Server thread/INFO]: Saving worlds
+[20:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
+[20:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[20:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
+[20:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:32:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
+[20:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[20:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:32:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
