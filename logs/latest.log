@@ -1,59 +1,111 @@
-[20:46:24] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:46:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:46:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:46:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:46:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:46:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:46:25] [main/INFO]: Reloading ResourceManager: Default
-[20:46:27] [Worker-Main-10/INFO]: Loaded 7 recipes
-[20:46:27] [Worker-Main-10/INFO]: Loaded 1137 advancements
-[20:46:30] [Server thread/INFO]: Starting minecraft server version 1.17
-[20:46:30] [Server thread/INFO]: Loading properties
-[20:46:30] [Server thread/INFO]: Default game type: SURVIVAL
-[20:46:30] [Server thread/INFO]: Generating keypair
-[20:46:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:46:30] [Server thread/INFO]: Using default channel type
-[20:46:31] [Server thread/INFO]: Preparing level "Victor world"
-[20:46:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:46:32] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[20:46:32] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:46:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[20:46:33] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[20:46:33] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[20:46:34] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[20:46:34] [Worker-Main-11/INFO]: Preparing spawn area: 1%
-[20:46:35] [Worker-Main-11/INFO]: Preparing spawn area: 3%
-[20:46:35] [Worker-Main-8/INFO]: Preparing spawn area: 3%
-[20:46:36] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[20:46:36] [Worker-Main-10/INFO]: Preparing spawn area: 9%
-[20:46:37] [Worker-Main-14/INFO]: Preparing spawn area: 30%
-[20:46:37] [Worker-Main-8/INFO]: Preparing spawn area: 43%
-[20:46:38] [Worker-Main-9/INFO]: Preparing spawn area: 72%
-[20:46:38] [Worker-Main-12/INFO]: Preparing spawn area: 98%
-[20:46:44] [Server thread/INFO]: Time elapsed: 13148 ms
-[20:46:44] [Server thread/INFO]: Done (13.400s)! For help, type "help"
-[20:46:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
-[20:46:54] [User Authenticator #1/INFO]: UUID of player s0pis0ap is 535ff6b3-7569-45ae-8251-1b8b11a4f571
-[20:46:55] [Server thread/INFO]: s0pis0ap[/192.168.1.19:57032] logged in with entity id 387 at (-63.3096703279998, 65.0, 166.20667290176362)
-[20:46:55] [Server thread/INFO]: s0pis0ap joined the game
-[20:47:10] [Server thread/INFO]: s0pis0ap lost connection: Timed out
-[20:47:10] [Server thread/INFO]: s0pis0ap left the game
-[20:47:11] [Server thread/WARN]: handleDisconnection() called twice
-[20:47:37] [User Authenticator #2/INFO]: UUID of player s0pis0ap is 535ff6b3-7569-45ae-8251-1b8b11a4f571
-[20:47:37] [Server thread/INFO]: s0pis0ap[/192.168.1.19:57039] logged in with entity id 397 at (-63.3096703279998, 65.0, 166.20667290176362)
-[20:47:37] [Server thread/INFO]: s0pis0ap joined the game
-[20:48:15] [Server thread/INFO]: s0pis0ap lost connection: Disconnected
-[20:48:15] [Server thread/INFO]: s0pis0ap left the game
-[20:48:22] [Server thread/INFO]: Stopping the server
-[20:48:22] [Server thread/INFO]: Stopping server
-[20:48:22] [Server thread/INFO]: Saving players
-[20:48:22] [Server thread/INFO]: Saving worlds
-[20:48:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
-[20:48:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[20:48:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
-[20:48:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:48:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
-[20:48:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:48:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[20:48:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:48:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:04:16] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[00:04:16] [Server thread/INFO]: ST0RM5 left the game
+[00:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-399, y=69, z=-309} gg{x=-358, y=88, z=-610}
+[00:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-399, y=69, z=-309} gg{x=-358, y=88, z=-610}
+[00:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-399, y=69, z=-309} gg{x=-358, y=88, z=-610}
+[00:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-399, y=69, z=-309} gg{x=-358, y=88, z=-610}
+[00:30:06] [User Authenticator #5/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
+[00:30:06] [Server thread/INFO]: ST0RM5[/180.129.65.185:11180] logged in with entity id 17920 at (-70.21601630074383, 63.0, 93.68513791745276)
+[00:30:06] [Server thread/INFO]: ST0RM5 joined the game
+[00:43:25] [Server thread/INFO]: <VictorPage> 2 more
+[00:43:57] [Server thread/INFO]: <VictorPage> 1
+[00:45:29] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[00:45:29] [Server thread/INFO]: ST0RM5 left the game
+[00:45:45] [User Authenticator #6/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
+[00:45:45] [Server thread/INFO]: ST0RM5[/180.129.65.185:11879] logged in with entity id 23986 at (-38.41830078603944, 56.125, 133.69999998807907)
+[00:45:45] [Server thread/INFO]: ST0RM5 joined the game
+[00:46:15] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[00:46:15] [Server thread/INFO]: ST0RM5 left the game
+[00:46:15] [Server thread/WARN]: handleDisconnection() called twice
+[00:46:32] [User Authenticator #7/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
+[00:46:32] [Server thread/INFO]: ST0RM5[/180.129.65.185:12076] logged in with entity id 24261 at (-36.619302363832695, 56.125, 133.30000001192093)
+[00:46:32] [Server thread/INFO]: ST0RM5 joined the game
+[00:49:46] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[00:49:46] [Server thread/INFO]: ST0RM5 left the game
+[00:55:36] [User Authenticator #8/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
+[00:55:36] [Server thread/INFO]: ST0RM5[/180.129.65.185:12900] logged in with entity id 26739 at (-36.78176732763689, 59.0, 144.03177911179102)
+[00:55:36] [Server thread/INFO]: ST0RM5 joined the game
+[00:57:46] [User Authenticator #9/INFO]: UUID of player s0pis0ap is 535ff6b3-7569-45ae-8251-1b8b11a4f571
+[00:57:46] [Server thread/INFO]: s0pis0ap[/119.74.151.129:55184] logged in with entity id 27570 at (-63.906280472709604, 65.0625, 166.92049741889903)
+[00:57:46] [Server thread/INFO]: s0pis0ap joined the game
+[01:01:57] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[01:01:57] [Server thread/INFO]: ST0RM5 left the game
+[01:05:06] [Server thread/INFO]: <VictorPage> -358 68 -1061
+[01:06:57] [User Authenticator #10/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
+[01:06:57] [Server thread/INFO]: ST0RM5[/180.129.65.185:13471] logged in with entity id 31319 at (-44.44155880772534, 58.0, 155.7349742294592)
+[01:06:57] [Server thread/INFO]: ST0RM5 joined the game
+[01:12:39] [Server thread/INFO]: <VictorPage> piston
+[01:13:13] [Server thread/INFO]: <VictorPage> like irl
+[01:13:16] [Server thread/INFO]: <VictorPage> its soft
+[01:13:23] [Server thread/INFO]: <VictorPage> and can walk thu glas
+[01:13:50] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[01:13:50] [Server thread/INFO]: ST0RM5 left the game
+[01:13:55] [Server thread/INFO]: <VictorPage> over here
+[01:14:24] [User Authenticator #11/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
+[01:14:24] [Server thread/INFO]: ST0RM5[/180.129.65.185:13753] logged in with entity id 33608 at (-39.76249998807907, 59.0, 142.27994923706487)
+[01:14:24] [Server thread/INFO]: ST0RM5 joined the game
+[01:14:43] [Server thread/INFO]: <VictorPage> yessssss
+[01:14:47] [Server thread/INFO]: <VictorPage> WArts
+[01:14:56] [Server thread/INFO]: <VictorPage> we ahve warts
+[01:14:58] [Server thread/INFO]: <VictorPage> lol
+[01:16:03] [Server thread/INFO]: <VictorPage> i gonna fix the farm
+[01:16:16] [Server thread/INFO]: <VictorPage> then py will break
+[01:17:21] [Server thread/INFO]: ST0RM5 was slain by VictorPage using [Caladbolg]
+[01:17:25] [Server thread/INFO]: <VictorPage> oops
+[01:17:26] [Server thread/INFO]: <VictorPage> ...
+[01:17:33] [Server thread/INFO]: <VictorPage> was ur hp max?
+[01:17:41] [Server thread/INFO]: <VictorPage> Y_Y sorry
+[01:17:47] [Server thread/INFO]: <VictorPage> a hard sword
+[01:18:06] [Server thread/INFO]: <VictorPage> Caladbolg ("hard cleft", cognate with Middle Welsh: Caledfwlch in medieval Welsh literature and Excalibur in the Matter of Britain; the name appears in the plural as a generic word for "great swords" in the 10th-century Irish translation of the classical t
+[01:18:23] [Server thread/INFO]: <VictorPage> James turned it XD
+[01:18:26] [Server thread/INFO]: <VictorPage> he died for it
+[01:20:45] [Server thread/INFO]: <VictorPage> yep
+[01:20:51] [Server thread/INFO]: <VictorPage> mend and unbreaking
+[01:20:59] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[01:20:59] [Server thread/INFO]: ST0RM5 left the game
+[01:24:25] [Server thread/INFO]: <VictorPage> yep
+[01:24:31] [Server thread/INFO]: <VictorPage> item gone
+[01:25:52] [Server thread/INFO]: <VictorPage> pesant shield spotted
+[01:26:30] [Server thread/INFO]: <VictorPage> banner
+[01:26:49] [Server thread/INFO]: <VictorPage> yep
+[01:27:10] [Server thread/INFO]: <VictorPage> collects eggs
+[01:27:28] [Server thread/INFO]: <VictorPage> drop thu?
+[01:27:31] [Server thread/INFO]: <VictorPage> here
+[01:27:42] [Server thread/INFO]: <VictorPage> the minecraft will drop off the eggs here
+[01:27:46] [Server thread/INFO]: <VictorPage> see see
+[01:27:56] [Server thread/INFO]: <VictorPage> minecart inside got hoppe
+[01:27:58] [Server thread/INFO]: <VictorPage> hopper
+[01:28:05] [Server thread/INFO]: <VictorPage> yep
+[01:28:15] [Server thread/INFO]: <VictorPage> only can suck if its slabs
+[01:28:19] [Server thread/INFO]: <VictorPage> full block cannot
+[01:28:30] [Server thread/INFO]: <VictorPage> sound like spinters
+[01:29:07] [Server thread/INFO]: <VictorPage> Amber's bow
+[01:29:42] [Server thread/INFO]: <VictorPage> i've spent 39 levels to rename my boots to greves
+[01:29:52] [Server thread/INFO]: <VictorPage> sounds like Norse god wepaon
+[01:30:59] [Server thread/INFO]: <VictorPage> maybe can make a pun
+[01:31:03] [Server thread/INFO]: <VictorPage> of tomahawk
+[01:31:15] [Server thread/INFO]: <VictorPage> nomorecok
+[01:31:47] [Server thread/INFO]: <VictorPage> Pixel Sword
+[01:35:24] [Server thread/INFO]: <VictorPage> BEhemoth
+[01:35:28] [Server thread/INFO]: <VictorPage> Behemoth*
+[01:36:27] [Server thread/INFO]: <VictorPage> black cleaver
+[01:36:57] [Server thread/INFO]: <DesWorld> angurvadal
+[01:37:16] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[01:37:16] [Server thread/INFO]: DesWorld left the game
+[01:37:51] [Server thread/INFO]: s0pis0ap lost connection: Disconnected
+[01:37:51] [Server thread/INFO]: s0pis0ap left the game
+[01:48:46] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[01:48:46] [Server thread/INFO]: VictorPage left the game
+[01:48:49] [Server thread/INFO]: Stopping the server
+[01:48:49] [Server thread/INFO]: Stopping server
+[01:48:49] [Server thread/INFO]: Saving players
+[01:48:49] [Server thread/INFO]: Saving worlds
+[01:48:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
+[01:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[01:48:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
+[01:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:48:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
+[01:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[01:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:48:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

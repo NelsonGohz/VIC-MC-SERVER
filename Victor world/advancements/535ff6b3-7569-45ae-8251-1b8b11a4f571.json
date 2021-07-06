@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-07-07 01:31:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-06-22 01:40:02 +0800"
@@ -713,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2021-07-07 01:31:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-06-22 00:52:52 +0800"
@@ -988,6 +1000,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-06-28 18:06:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-07-07 01:01:07 +0800"
     },
     "done": true
   },
@@ -1775,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-07-07 01:01:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-06-22 00:49:29 +0800"
@@ -2231,6 +2255,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-06-28 18:30:11 +0800",
+      "honey_bottle": "2021-07-07 01:03:13 +0800",
       "cooked_mutton": "2021-06-28 17:29:02 +0800",
       "cooked_beef": "2021-06-22 01:48:05 +0800",
       "cooked_chicken": "2021-06-22 00:56:55 +0800",
@@ -2254,6 +2279,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-07-01 01:46:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-07-07 01:01:07 +0800"
     },
     "done": true
   },
@@ -3274,6 +3305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2021-07-07 01:31:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-06-22 01:51:56 +0800"
@@ -3409,6 +3446,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2021-06-22 01:35:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-07-07 01:31:14 +0800"
     },
     "done": true
   },
