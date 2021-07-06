@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-06-19 16:39:08 +0800"
@@ -913,6 +919,7 @@
       "minecraft:cave_spider": "2021-06-24 00:12:49 +0800",
       "minecraft:piglin": "2021-06-28 17:44:38 +0800",
       "minecraft:enderman": "2021-06-28 17:27:07 +0800",
+      "minecraft:silverfish": "2021-07-06 16:05:43 +0800",
       "minecraft:zombie": "2021-06-19 16:53:33 +0800",
       "minecraft:drowned": "2021-07-04 01:08:00 +0800",
       "minecraft:zombie_villager": "2021-06-22 21:33:51 +0800"
@@ -922,6 +929,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2021-06-29 00:03:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
     },
     "done": true
   },
@@ -1069,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-06-19 16:32:43 +0800"
@@ -1084,6 +1103,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-06-19 15:39:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
     },
     "done": true
   },
@@ -1351,6 +1376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2021-06-29 18:12:43 +0800"
@@ -1501,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-06-19 16:28:42 +0800"
@@ -1528,6 +1565,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2021-06-19 16:52:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
     },
     "done": true
   },
@@ -1785,6 +1828,7 @@
       "minecraft:mountains": "2021-06-22 02:03:52 +0800",
       "minecraft:taiga": "2021-07-01 18:53:41 +0800",
       "minecraft:desert_hills": "2021-06-22 01:45:13 +0800",
+      "minecraft:taiga_hills": "2021-07-06 17:42:56 +0800",
       "minecraft:desert": "2021-06-22 01:18:15 +0800",
       "minecraft:deep_frozen_ocean": "2021-06-22 18:54:17 +0800",
       "minecraft:jungle": "2021-06-22 01:07:19 +0800",
@@ -1888,6 +1932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-06-20 14:33:48 +0800"
@@ -1987,6 +2037,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2021-06-30 21:48:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
     },
     "done": true
   },
@@ -2171,6 +2227,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-06-19 16:28:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
     },
     "done": true
   },
@@ -2450,6 +2512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-06 15:06:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2021-06-29 23:03:42 +0800"
@@ -2487,6 +2555,7 @@
       "sweet_berries": "2021-07-01 00:04:31 +0800",
       "cooked_beef": "2021-06-19 15:51:06 +0800",
       "bread": "2021-06-19 16:31:11 +0800",
+      "glow_berries": "2021-07-06 18:18:19 +0800",
       "cooked_chicken": "2021-06-20 14:42:24 +0800",
       "rabbit_stew": "2021-06-29 23:03:42 +0800",
       "carrot": "2021-07-02 13:15:17 +0800"

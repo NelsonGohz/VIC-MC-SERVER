@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-07-06 14:14:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-06-17 14:47:17 +0800"
@@ -1103,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2021-07-06 17:33:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2021-06-22 12:58:59 +0800"
@@ -1861,6 +1873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-07-06 17:43:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-22 19:14:24 +0800"
@@ -2032,6 +2050,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-06-17 14:48:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2021-07-06 17:33:03 +0800"
     },
     "done": true
   },
@@ -3864,6 +3888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2021-07-06 17:33:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2021-06-24 20:41:46 +0800"
@@ -4282,6 +4312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2021-07-06 17:33:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2021-06-17 21:13:07 +0800"
@@ -4342,6 +4378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-07-06 14:14:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-06-29 02:05:32 +0800"
@@ -4387,6 +4429,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-06-17 19:39:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-07-06 17:43:42 +0800"
     },
     "done": true
   },
@@ -4618,6 +4666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2021-07-06 18:28:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2021-06-27 16:18:37 +0800"
@@ -4741,6 +4795,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-06-17 17:58:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2021-07-06 17:33:03 +0800"
     },
     "done": true
   },
@@ -4909,6 +4969,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2021-07-05 13:16:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-07-06 14:14:20 +0800"
     },
     "done": true
   },
