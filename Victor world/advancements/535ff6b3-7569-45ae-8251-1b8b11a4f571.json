@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2021-07-08 01:41:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-06-22 00:49:29 +0800"
@@ -1613,6 +1619,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-07-08 01:30:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-06-22 00:52:18 +0800"
@@ -2540,6 +2552,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2021-06-22 01:40:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2021-07-08 01:41:35 +0800"
     },
     "done": true
   },
