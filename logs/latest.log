@@ -1,171 +1,172 @@
-[15:04:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:04:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:04:58] [main/INFO]: Reloading ResourceManager: Default
-[15:05:00] [Worker-Main-11/INFO]: Loaded 7 recipes
-[15:05:01] [Worker-Main-11/INFO]: Loaded 1137 advancements
-[15:05:04] [Server thread/INFO]: Starting minecraft server version 1.17
-[15:05:04] [Server thread/INFO]: Loading properties
-[15:05:04] [Server thread/INFO]: Default game type: SURVIVAL
-[15:05:04] [Server thread/INFO]: Generating keypair
-[15:05:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:05:04] [Server thread/INFO]: Using default channel type
-[15:05:05] [Server thread/INFO]: Preparing level "Victor world"
-[15:05:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:05:06] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:05:06] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:05:06] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:05:07] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[15:05:07] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:05:08] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:05:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
-[15:05:09] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[15:05:09] [Worker-Main-13/INFO]: Preparing spawn area: 4%
-[15:05:10] [Worker-Main-12/INFO]: Preparing spawn area: 21%
-[15:05:10] [Worker-Main-13/INFO]: Preparing spawn area: 31%
-[15:05:11] [Worker-Main-9/INFO]: Preparing spawn area: 36%
-[15:05:11] [Worker-Main-8/INFO]: Preparing spawn area: 58%
-[15:05:12] [Worker-Main-8/INFO]: Preparing spawn area: 81%
-[15:05:14] [Server thread/INFO]: Time elapsed: 9007 ms
-[15:05:14] [Server thread/INFO]: Done (9.199s)! For help, type "help"
-[15:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[15:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6373ms or 127 ticks behind
-[15:09:43] [User Authenticator #1/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[15:09:43] [Server thread/INFO]: DesWorld[/119.74.38.77:56362] logged in with entity id 463 at (-58.36141377941017, 59.0, 165.42171913675853)
-[15:09:43] [Server thread/INFO]: DesWorld joined the game
-[15:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[15:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
-[15:20:08] [User Authenticator #2/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[15:20:09] [Server thread/INFO]: VictorPage[/192.168.1.7:52353] logged in with entity id 1911 at (-53.005626433648935, 69.0, 168.8931665628395)
-[15:20:09] [Server thread/INFO]: VictorPage joined the game
-[15:20:17] [Server thread/INFO]: <VictorPage> Yooo
-[15:20:29] [Server thread/INFO]: <DesWorld> yooo
-[15:20:37] [Server thread/INFO]: <DesWorld> i fall alseep listening to mc music
-[15:24:04] [Server thread/INFO]: <VictorPage> dayumm
-[15:24:09] [Server thread/INFO]: <VictorPage> in game music?
-[15:24:19] [Server thread/INFO]: <VictorPage> or like youtube minecraft playlist
-[15:24:31] [Server thread/INFO]: <VictorPage> dont worry i got just the thing to make u wake up
-[15:26:50] [Server thread/INFO]: <DesWorld> in game
-[15:26:54] [Server thread/INFO]: <DesWorld> i sleep again lmfaoooo
-[15:27:41] [Server thread/INFO]: [VictorPage: Played sound minecraft:mob.creeper.death to VictorPage]
-[15:28:02] [Server thread/INFO]: [VictorPage: Played sound minecraft:mob.creeper.death to VictorPage]
-[15:28:12] [Server thread/INFO]: [VictorPage: Played sound minecraft:mob.creeper.death to VictorPage]
-[15:28:31] [Server thread/INFO]: [VictorPage: Played sound minecraft:mob.creeper.say to VictorPage]
-[15:28:36] [Server thread/INFO]: [VictorPage: Played sound minecraft:mob.creeper.say to VictorPage]
-[15:29:16] [Server thread/INFO]: <DesWorld> wut
-[15:29:29] [Server thread/INFO]: <DesWorld> wanna scare me
-[15:29:31] [Server thread/INFO]: <DesWorld> fker
-[15:29:43] [Server thread/INFO]: <VictorPage> got sound?
-[15:29:45] [Server thread/INFO]: <VictorPage> i trying lol
-[15:29:45] [Server thread/INFO]: <DesWorld> nope
-[15:29:47] [Server thread/INFO]: <VictorPage> wahh
-[15:29:51] [Server thread/INFO]: <DesWorld> you playing toyourself
-[15:29:54] [Server thread/INFO]: <VictorPage> see this
-[15:30:07] [Server thread/INFO]: <VictorPage> does it look like puknig blood?
-[15:30:12] [Server thread/INFO]: <DesWorld> ?
-[15:30:25] [Server thread/INFO]: <DesWorld> like red block lor
-[15:30:28] [Server thread/INFO]: <VictorPage> mensus block
-[15:30:32] [Server thread/INFO]: <DesWorld> lmfao
-[15:30:54] [Server thread/INFO]: <VictorPage> brb, researching how to play creeper sounds
-[15:31:08] [Server thread/INFO]: <DesWorld> like can play catching
-[15:32:26] [Server thread/INFO]: <DesWorld> lol not sleepy liao
-[15:33:27] [Server thread/INFO]: <DesWorld> fight 1 more wither?
-[15:35:39] [Server thread/INFO]: <VictorPage> sure
-[15:35:48] [Server thread/INFO]: <VictorPage> comin
-[15:36:00] [Server thread/INFO]: <VictorPage> how many deacon we need ar total
-[15:36:04] [Server thread/INFO]: <VictorPage> to have all buffs
-[15:36:49] [Server thread/INFO]: <VictorPage> the heads with you?
-[15:36:54] [Server thread/INFO]: <DesWorld> i at farm
-[15:37:32] [Server thread/INFO]: <DesWorld> i finish
-[15:37:45] [Server thread/INFO]: <DesWorld> the head on enderchest
-[15:37:50] [Server thread/INFO]: <VictorPage> kk
-[15:37:52] [Server thread/INFO]: <VictorPage> i brinign
-[15:37:59] [Server thread/INFO]: <VictorPage> cus i taking alot of eggs
-[15:38:06] [Server thread/INFO]: <DesWorld> oh
-[15:38:15] [Server thread/INFO]: <DesWorld> maybe dont need the flower liao
-[15:38:19] [Server thread/INFO]: <VictorPage> ah
-[15:38:28] [Server thread/INFO]: <DesWorld> coz still not sure what to do with it
-[15:38:32] [Server thread/INFO]: <VictorPage> ok, then this will be last tiem to get flwoers
-[15:38:36] [Server thread/INFO]: <DesWorld> yes
-[15:38:37] [Server thread/INFO]: <DesWorld> sleep
-[15:38:56] [Server thread/INFO]: <DesWorld> need regen potion
-[15:39:01] [Server thread/INFO]: <VictorPage> kk
-[15:39:03] [Server thread/INFO]: <DesWorld> actually not sure
-[15:39:03] [Server thread/INFO]: <VictorPage> u take?
-[15:39:05] [Server thread/INFO]: <VictorPage> i dun take
-[15:39:08] [Server thread/INFO]: <DesWorld> yai take
-[15:39:09] [Server thread/INFO]: <VictorPage> think, just str
-[15:39:10] [Server thread/INFO]: <VictorPage> can le
-[15:39:17] [Server thread/INFO]: <VictorPage> we pro, sure wont die
-[15:39:25] [Server thread/INFO]: <VictorPage> sure wont lose all our items
-[15:39:52] [Server thread/INFO]: <VictorPage> i want hunt netherrites sometime soon
-[15:39:56] [Server thread/INFO]: <VictorPage> full tier armor
-[15:39:57] [Server thread/INFO]: <VictorPage> and tools
-[15:40:01] [Server thread/INFO]: <DesWorld> ya
-[15:40:09] [Server thread/INFO]: <VictorPage> especially my spade lol
-[15:40:12] [Server thread/INFO]: <VictorPage> want more PWOERRR
-[15:40:44] [Server thread/INFO]: <VictorPage> oh ya theres a ender chest there
-[15:40:48] [Server thread/INFO]: <VictorPage> lol, i was looknig for it
-[15:41:03] [Server thread/INFO]: <VictorPage> brb 2 moin
-[15:41:05] [Server thread/INFO]: <VictorPage> min
-[15:41:39] [Server thread/INFO]: <VictorPage> backj
-[15:41:56] [Server thread/INFO]: <DesWorld> i making potion
-[15:42:00] [Server thread/INFO]: <VictorPage> my injected left arm, feels like someone squeezing onto my shoulder 24/7
-[15:42:05] [Server thread/INFO]: <VictorPage> like gripping hard
-[15:42:08] [Server thread/INFO]: <DesWorld> lmao
-[15:42:24] [Server thread/INFO]: <VictorPage> taknig speed poit
-[15:42:32] [Server thread/INFO]: <DesWorld> ready
-[15:42:35] [Server thread/INFO]: <VictorPage> tp
-[15:42:37] [Server thread/INFO]: <VictorPage> yep*
-[15:42:59] [Server thread/INFO]: <DesWorld> LOL
-[15:43:09] [Server thread/WARN]: Horse (vehicle of DesWorld) moved wrongly! 0.39836523720040873
-[15:43:22] [Server thread/WARN]: Horse (vehicle of DesWorld) moved wrongly! 0.46465851269334735
-[15:43:22] [Server thread/WARN]: Horse (vehicle of DesWorld) moved wrongly! 0.2823421124043648
-[15:43:28] [Server thread/WARN]: Horse (vehicle of DesWorld) moved wrongly! 0.3733900370157244
-[15:43:28] [Server thread/WARN]: Horse (vehicle of DesWorld) moved wrongly! 0.25539209128351104
-[15:43:47] [Server thread/WARN]: Horse (vehicle of VictorPage) moved wrongly! 0.4499273757875386
-[15:44:49] [Server thread/INFO]: <VictorPage> late i going to take somew
-[15:44:51] [Server thread/INFO]: <VictorPage> ametsy
-[15:45:07] [Server thread/INFO]: <VictorPage> mine some*
-[15:45:23] [Server thread/INFO]: <VictorPage> want discord>?
-[15:54:26] [Server thread/WARN]: Horse (vehicle of DesWorld) moved wrongly! 0.3087718250895932
-[15:56:16] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[15:56:16] [Server thread/INFO]: VictorPage left the game
-[15:57:45] [User Authenticator #3/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[15:57:46] [Server thread/INFO]: VictorPage[/192.168.1.7:60075] logged in with entity id 11373 at (-422.4924678984625, 73.8500000178814, -50.16818268937795)
-[15:57:46] [Server thread/INFO]: VictorPage joined the game
-[16:00:52] [Server thread/WARN]: Horse (vehicle of VictorPage) moved wrongly! 0.3150917633261656
-[16:04:54] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[16:04:54] [Server thread/INFO]: VictorPage left the game
-[16:04:55] [User Authenticator #4/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[16:04:55] [Server thread/INFO]: VictorPage[/192.168.1.7:57939] logged in with entity id 15111 at (-28.02765775739681, 65.0, 170.69999998807907)
-[16:04:55] [Server thread/INFO]: VictorPage joined the game
-[16:16:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-24, y=90, z=192} gg{x=-24, y=91, z=191}
-[16:16:19] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=-24, y=90, z=191} gg{x=-24, y=91, z=191}
-[16:27:53] [Server thread/INFO]: <VictorPage> when i was 12 i ate a whole bar of white chocolate
-[16:27:57] [Server thread/INFO]: <VictorPage> in one go
-[16:29:40] [Server thread/INFO]: <VictorPage> for vin he got trauma with dragon fruit
-[16:31:46] [Server thread/INFO]: <VictorPage> peach
-[16:34:11] [Server thread/INFO]: <VictorPage> i left with finish building the top area of the base
-[16:45:08] [Server thread/INFO]: <VictorPage> back
-[16:45:18] [Server thread/INFO]: <VictorPage> looks better
-[16:51:26] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[16:51:26] [Server thread/INFO]: VictorPage left the game
-[16:52:46] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[16:52:46] [Server thread/INFO]: DesWorld left the game
-[16:52:58] [Server thread/INFO]: Stopping the server
-[16:52:58] [Server thread/INFO]: Stopping server
-[16:52:58] [Server thread/INFO]: Saving players
-[16:52:58] [Server thread/INFO]: Saving worlds
-[16:52:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
-[16:52:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[16:52:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
-[16:52:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:52:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
-[16:52:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:52:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[16:52:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:52:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:43:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:43:01] [main/INFO]: Reloading ResourceManager: Default
+[15:43:03] [Worker-Main-12/INFO]: Loaded 7 recipes
+[15:43:04] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[15:43:07] [Server thread/INFO]: Starting minecraft server version 1.17
+[15:43:07] [Server thread/INFO]: Loading properties
+[15:43:07] [Server thread/INFO]: Default game type: SURVIVAL
+[15:43:07] [Server thread/INFO]: Generating keypair
+[15:43:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:43:08] [Server thread/INFO]: Using default channel type
+[15:43:09] [Server thread/INFO]: Preparing level "Victor world"
+[15:43:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:43:10] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:43:10] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:43:10] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:43:11] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:43:11] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:43:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[15:43:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[15:43:13] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[15:43:13] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[15:43:14] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[15:43:14] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[15:43:15] [Worker-Main-9/INFO]: Preparing spawn area: 4%
+[15:43:15] [Worker-Main-14/INFO]: Preparing spawn area: 14%
+[15:43:16] [Worker-Main-13/INFO]: Preparing spawn area: 20%
+[15:43:16] [Worker-Main-9/INFO]: Preparing spawn area: 22%
+[15:43:17] [Worker-Main-11/INFO]: Preparing spawn area: 29%
+[15:43:17] [Worker-Main-13/INFO]: Preparing spawn area: 48%
+[15:43:18] [Worker-Main-12/INFO]: Preparing spawn area: 77%
+[15:43:22] [Server thread/INFO]: Time elapsed: 12869 ms
+[15:43:22] [Server thread/INFO]: Done (13.167s)! For help, type "help"
+[15:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
+[15:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9051ms or 181 ticks behind
+[16:02:38] [User Authenticator #1/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[16:02:39] [Server thread/INFO]: DesWorld[/119.74.38.77:63577] logged in with entity id 500 at (-48.649559806704616, 64.0, 158.0246939534776)
+[16:02:39] [Server thread/INFO]: DesWorld joined the game
+[16:03:45] [User Authenticator #2/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
+[16:03:45] [Server thread/INFO]: ST0RM5[/180.129.65.185:6576] logged in with entity id 673 at (-55.939734077687355, 59.0, 162.01581659537942)
+[16:03:45] [Server thread/INFO]: ST0RM5 joined the game
+[16:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[16:10:28] [User Authenticator #3/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[16:10:29] [Server thread/INFO]: VictorPage[/192.168.1.7:53330] logged in with entity id 1948 at (-39.76249998807907, 58.0, 157.69999998807907)
+[16:10:29] [Server thread/INFO]: VictorPage joined the game
+[16:10:37] [Server thread/INFO]: <VictorPage> Yooo
+[16:10:42] [Server thread/INFO]: <VictorPage> discord chat?
+[16:10:47] [Server thread/INFO]: <ST0RM5> yea
+[16:12:14] [Server thread/INFO]: <DesWorld> yo
+[16:12:17] [Server thread/INFO]: <DesWorld> call?
+[16:12:21] [Server thread/INFO]: <VictorPage> yep
+[16:12:24] [Server thread/INFO]: <VictorPage> i in
+[16:12:47] [Server thread/INFO]: <DesWorld> you in the wrong one
+[16:12:50] [Server thread/INFO]: <VictorPage> oh
+[16:16:09] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[16:16:09] [Server thread/INFO]: DesWorld left the game
+[16:16:29] [User Authenticator #4/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[16:16:29] [Server thread/INFO]: DesWorld[/119.74.38.77:63630] logged in with entity id 3247 at (-63.61867809807092, 63.0, 153.03502311881283)
+[16:16:29] [Server thread/INFO]: DesWorld joined the game
+[16:16:34] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[16:16:34] [Server thread/INFO]: DesWorld left the game
+[16:16:40] [User Authenticator #5/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[16:16:40] [Server thread/INFO]: DesWorld[/119.74.38.77:63636] logged in with entity id 3279 at (-63.61867809807092, 63.0, 153.03502311881283)
+[16:16:40] [Server thread/INFO]: DesWorld joined the game
+[16:20:03] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[16:20:03] [Server thread/INFO]: DesWorld left the game
+[16:20:12] [User Authenticator #6/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[16:20:12] [Server thread/INFO]: DesWorld[/119.74.38.77:63651] logged in with entity id 3936 at (-50.513170070642126, 59.0, 165.31876759145308)
+[16:20:12] [Server thread/INFO]: DesWorld joined the game
+[16:20:40] [User Authenticator #7/INFO]: UUID of player s0pis0ap is 535ff6b3-7569-45ae-8251-1b8b11a4f571
+[16:20:40] [Server thread/INFO]: s0pis0ap[/119.74.151.129:53152] logged in with entity id 4059 at (-64.01450790522699, 65.0625, 168.47121530423792)
+[16:20:40] [Server thread/INFO]: s0pis0ap joined the game
+[16:45:18] [Server thread/WARN]: s0pis0ap was kicked for floating too long!
+[16:45:18] [Server thread/INFO]: s0pis0ap lost connection: Flying is not enabled on this server
+[16:45:18] [Server thread/INFO]: s0pis0ap left the game
+[16:45:18] [Server thread/WARN]: handleDisconnection() called twice
+[16:45:25] [User Authenticator #8/INFO]: UUID of player s0pis0ap is 535ff6b3-7569-45ae-8251-1b8b11a4f571
+[16:45:25] [Server thread/INFO]: s0pis0ap[/119.74.151.129:51528] logged in with entity id 11185 at (-48.478352238962, 63.85000001788139, 188.23862234261614)
+[16:45:25] [Server thread/INFO]: s0pis0ap joined the game
+[16:45:36] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.2646402243571515
+[16:49:18] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.4625425093309161
+[16:49:24] [Server thread/INFO]: ST0RM5 has made the advancement [Cover Me with Diamonds]
+[16:51:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3034ms or 60 ticks behind
+[16:51:15] [Server thread/WARN]: DesWorld moved too quickly! 9.8683331793465,0.0,2.888849873381673
+[16:52:17] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[16:52:17] [Server thread/INFO]: VictorPage left the game
+[16:52:22] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[16:52:22] [Server thread/INFO]: ST0RM5 left the game
+[16:52:27] [User Authenticator #9/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[16:52:27] [User Authenticator #10/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
+[16:52:27] [Server thread/INFO]: VictorPage[/192.168.1.7:57871] logged in with entity id 12457 at (-40.6689641620368, 58.0, 163.43684863386798)
+[16:52:27] [Server thread/INFO]: VictorPage joined the game
+[16:52:28] [Server thread/INFO]: ST0RM5[/180.129.65.185:12909] logged in with entity id 12458 at (-50.43327498100446, 59.5625, 165.88889975693587)
+[16:52:28] [Server thread/INFO]: ST0RM5 joined the game
+[17:17:40] [Server thread/INFO]: s0pis0ap has made the advancement [Eye Spy]
+[17:17:42] [Server thread/INFO]: VictorPage has made the advancement [Eye Spy]
+[17:17:45] [Server thread/INFO]: DesWorld has made the advancement [Eye Spy]
+[17:17:48] [Server thread/INFO]: ST0RM5 has made the advancement [Eye Spy]
+[17:20:04] [Server thread/INFO]: s0pis0ap has made the advancement [The End?]
+[17:20:05] [Server thread/INFO]: VictorPage has made the advancement [The End?]
+[17:20:07] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[17:20:07] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[17:20:08] [Server thread/WARN]: VictorPage moved too quickly! -1890.0584939467776,29.392604549951344,215.8235131103244
+[17:20:08] [Server thread/INFO]: DesWorld has made the advancement [The End?]
+[17:20:08] [Server thread/WARN]: VictorPage moved too quickly! -1890.0584939467776,29.392604549951344,215.8235131103244
+[17:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3908ms or 78 ticks behind
+[17:20:09] [Server thread/WARN]: DesWorld moved too quickly! -1889.8131389515859,29.464159374955443,216.01409909580812
+[17:20:11] [Server thread/INFO]: ST0RM5 has made the advancement [The End?]
+[17:21:36] [Server thread/INFO]: VictorPage has reached the goal [You Need a Mint]
+[17:21:54] [Server thread/INFO]: ST0RM5 has reached the goal [You Need a Mint]
+[17:22:22] [Server thread/INFO]: ST0RM5 was slain by Enderman
+[17:23:00] [Server thread/INFO]: DesWorld has reached the goal [You Need a Mint]
+[17:23:43] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[17:23:43] [Server thread/INFO]: VictorPage left the game
+[17:24:03] [Server thread/INFO]: ST0RM5 was slain by Enderman
+[17:24:46] [Server thread/INFO]: ST0RM5 was slain by Enderman
+[17:25:54] [Server thread/INFO]: s0pis0ap has made the advancement [Free the End]
+[17:26:57] [User Authenticator #11/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[17:26:57] [Server thread/INFO]: VictorPage[/192.168.1.7:57984] logged in with entity id 22638 at (-16.488391158917306, 63.0, 2.3792621738120876)
+[17:26:57] [Server thread/INFO]: VictorPage joined the game
+[17:27:55] [Server thread/INFO]: ST0RM5 has made the advancement [Remote Getaway]
+[17:29:11] [Server thread/INFO]: s0pis0ap has made the advancement [Remote Getaway]
+[17:29:14] [Server thread/INFO]: VictorPage has made the advancement [Remote Getaway]
+[17:30:39] [Server thread/INFO]: <DesWorld> -1039
+[17:30:56] [Server thread/INFO]: <DesWorld> -1039 461
+[17:33:33] [Server thread/INFO]: <VictorPage> -1396 678
+[17:34:00] [Server thread/INFO]: ST0RM5 has made the advancement [The City at the End of the Game]
+[17:34:06] [Server thread/INFO]: VictorPage has made the advancement [The City at the End of the Game]
+[17:39:51] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
+[17:39:51] [Server thread/INFO]: ST0RM5 left the game
+[17:54:28] [Server thread/INFO]: s0pis0ap has made the advancement [The City at the End of the Game]
+[17:54:41] [Server thread/INFO]: DesWorld has made the advancement [The City at the End of the Game]
+[18:05:04] [Server thread/INFO]: <VictorPage> fish in brine
+[18:09:49] [Server thread/INFO]: <VictorPage> -2350 1351
+[18:10:12] [Server thread/INFO]: <s0pis0ap> w
+[18:13:35] [Server thread/WARN]: s0pis0ap moved too quickly! 7.021594812986223,-1.0,-7.747079899351775
+[18:16:46] [Server thread/INFO]: <DesWorld> -2573 736
+[18:20:55] [Server thread/WARN]: s0pis0ap moved too quickly! -5.320173228146359,-37.0,1.3330226868770296
+[18:20:55] [Server thread/WARN]: s0pis0ap moved too quickly! -5.320173228146359,-37.0,1.3330226868770296
+[18:21:27] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[18:21:27] [Server thread/INFO]: VictorPage left the game
+[18:27:32] [User Authenticator #12/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[18:27:32] [Server thread/INFO]: VictorPage[/192.168.1.7:54574] logged in with entity id 34229 at (-2535.3126200551555, 127.5, 1346.3133688499822)
+[18:27:32] [Server thread/INFO]: VictorPage joined the game
+[18:27:43] [Server thread/INFO]: <DesWorld> test
+[18:31:23] [Server thread/INFO]: <VictorPage> 2573
+[18:40:02] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[18:40:02] [Server thread/INFO]: VictorPage left the game
+[18:40:11] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[18:40:11] [Server thread/INFO]: DesWorld left the game
+[18:40:32] [Server thread/INFO]: s0pis0ap lost connection: Disconnected
+[18:40:50] [Server thread/INFO]: s0pis0ap left the game
+[18:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17514ms or 350 ticks behind
+[18:40:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:40:55] [Server thread/INFO]: sstop<--[HERE]
+[18:40:58] [Server thread/INFO]: Stopping the server
+[18:40:58] [Server thread/INFO]: Stopping server
+[18:40:58] [Server thread/INFO]: Saving players
+[18:40:58] [Server thread/INFO]: Saving worlds
+[18:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
+[18:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[18:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
+[18:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
+[18:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[18:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
