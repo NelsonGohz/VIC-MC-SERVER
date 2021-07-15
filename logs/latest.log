@@ -1,172 +1,324 @@
-[15:43:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:43:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:43:01] [main/INFO]: Reloading ResourceManager: Default
-[15:43:03] [Worker-Main-12/INFO]: Loaded 7 recipes
-[15:43:04] [Worker-Main-12/INFO]: Loaded 1137 advancements
-[15:43:07] [Server thread/INFO]: Starting minecraft server version 1.17
-[15:43:07] [Server thread/INFO]: Loading properties
-[15:43:07] [Server thread/INFO]: Default game type: SURVIVAL
-[15:43:07] [Server thread/INFO]: Generating keypair
-[15:43:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:43:08] [Server thread/INFO]: Using default channel type
-[15:43:09] [Server thread/INFO]: Preparing level "Victor world"
-[15:43:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:43:10] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:43:10] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:43:10] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:43:11] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[15:43:11] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:43:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[15:43:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:43:13] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[15:43:13] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:43:14] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[15:43:14] [Worker-Main-11/INFO]: Preparing spawn area: 4%
-[15:43:15] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[15:43:15] [Worker-Main-14/INFO]: Preparing spawn area: 14%
-[15:43:16] [Worker-Main-13/INFO]: Preparing spawn area: 20%
-[15:43:16] [Worker-Main-9/INFO]: Preparing spawn area: 22%
-[15:43:17] [Worker-Main-11/INFO]: Preparing spawn area: 29%
-[15:43:17] [Worker-Main-13/INFO]: Preparing spawn area: 48%
-[15:43:18] [Worker-Main-12/INFO]: Preparing spawn area: 77%
-[15:43:22] [Server thread/INFO]: Time elapsed: 12869 ms
-[15:43:22] [Server thread/INFO]: Done (13.167s)! For help, type "help"
-[15:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
-[15:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9051ms or 181 ticks behind
-[16:02:38] [User Authenticator #1/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[16:02:39] [Server thread/INFO]: DesWorld[/119.74.38.77:63577] logged in with entity id 500 at (-48.649559806704616, 64.0, 158.0246939534776)
-[16:02:39] [Server thread/INFO]: DesWorld joined the game
-[16:03:45] [User Authenticator #2/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
-[16:03:45] [Server thread/INFO]: ST0RM5[/180.129.65.185:6576] logged in with entity id 673 at (-55.939734077687355, 59.0, 162.01581659537942)
-[16:03:45] [Server thread/INFO]: ST0RM5 joined the game
-[16:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[16:10:28] [User Authenticator #3/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[16:10:29] [Server thread/INFO]: VictorPage[/192.168.1.7:53330] logged in with entity id 1948 at (-39.76249998807907, 58.0, 157.69999998807907)
-[16:10:29] [Server thread/INFO]: VictorPage joined the game
-[16:10:37] [Server thread/INFO]: <VictorPage> Yooo
-[16:10:42] [Server thread/INFO]: <VictorPage> discord chat?
-[16:10:47] [Server thread/INFO]: <ST0RM5> yea
-[16:12:14] [Server thread/INFO]: <DesWorld> yo
-[16:12:17] [Server thread/INFO]: <DesWorld> call?
-[16:12:21] [Server thread/INFO]: <VictorPage> yep
-[16:12:24] [Server thread/INFO]: <VictorPage> i in
-[16:12:47] [Server thread/INFO]: <DesWorld> you in the wrong one
-[16:12:50] [Server thread/INFO]: <VictorPage> oh
-[16:16:09] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[16:16:09] [Server thread/INFO]: DesWorld left the game
-[16:16:29] [User Authenticator #4/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[16:16:29] [Server thread/INFO]: DesWorld[/119.74.38.77:63630] logged in with entity id 3247 at (-63.61867809807092, 63.0, 153.03502311881283)
-[16:16:29] [Server thread/INFO]: DesWorld joined the game
-[16:16:34] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[16:16:34] [Server thread/INFO]: DesWorld left the game
-[16:16:40] [User Authenticator #5/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[16:16:40] [Server thread/INFO]: DesWorld[/119.74.38.77:63636] logged in with entity id 3279 at (-63.61867809807092, 63.0, 153.03502311881283)
-[16:16:40] [Server thread/INFO]: DesWorld joined the game
-[16:20:03] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[16:20:03] [Server thread/INFO]: DesWorld left the game
-[16:20:12] [User Authenticator #6/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
-[16:20:12] [Server thread/INFO]: DesWorld[/119.74.38.77:63651] logged in with entity id 3936 at (-50.513170070642126, 59.0, 165.31876759145308)
-[16:20:12] [Server thread/INFO]: DesWorld joined the game
-[16:20:40] [User Authenticator #7/INFO]: UUID of player s0pis0ap is 535ff6b3-7569-45ae-8251-1b8b11a4f571
-[16:20:40] [Server thread/INFO]: s0pis0ap[/119.74.151.129:53152] logged in with entity id 4059 at (-64.01450790522699, 65.0625, 168.47121530423792)
-[16:20:40] [Server thread/INFO]: s0pis0ap joined the game
-[16:45:18] [Server thread/WARN]: s0pis0ap was kicked for floating too long!
-[16:45:18] [Server thread/INFO]: s0pis0ap lost connection: Flying is not enabled on this server
-[16:45:18] [Server thread/INFO]: s0pis0ap left the game
-[16:45:18] [Server thread/WARN]: handleDisconnection() called twice
-[16:45:25] [User Authenticator #8/INFO]: UUID of player s0pis0ap is 535ff6b3-7569-45ae-8251-1b8b11a4f571
-[16:45:25] [Server thread/INFO]: s0pis0ap[/119.74.151.129:51528] logged in with entity id 11185 at (-48.478352238962, 63.85000001788139, 188.23862234261614)
-[16:45:25] [Server thread/INFO]: s0pis0ap joined the game
-[16:45:36] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.2646402243571515
-[16:49:18] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.4625425093309161
-[16:49:24] [Server thread/INFO]: ST0RM5 has made the advancement [Cover Me with Diamonds]
-[16:51:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3034ms or 60 ticks behind
-[16:51:15] [Server thread/WARN]: DesWorld moved too quickly! 9.8683331793465,0.0,2.888849873381673
-[16:52:17] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[16:52:17] [Server thread/INFO]: VictorPage left the game
-[16:52:22] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
-[16:52:22] [Server thread/INFO]: ST0RM5 left the game
-[16:52:27] [User Authenticator #9/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[16:52:27] [User Authenticator #10/INFO]: UUID of player ST0RM5 is 52a8f5dd-1e66-49c0-a512-34721b5f80ac
-[16:52:27] [Server thread/INFO]: VictorPage[/192.168.1.7:57871] logged in with entity id 12457 at (-40.6689641620368, 58.0, 163.43684863386798)
-[16:52:27] [Server thread/INFO]: VictorPage joined the game
-[16:52:28] [Server thread/INFO]: ST0RM5[/180.129.65.185:12909] logged in with entity id 12458 at (-50.43327498100446, 59.5625, 165.88889975693587)
-[16:52:28] [Server thread/INFO]: ST0RM5 joined the game
-[17:17:40] [Server thread/INFO]: s0pis0ap has made the advancement [Eye Spy]
-[17:17:42] [Server thread/INFO]: VictorPage has made the advancement [Eye Spy]
-[17:17:45] [Server thread/INFO]: DesWorld has made the advancement [Eye Spy]
-[17:17:48] [Server thread/INFO]: ST0RM5 has made the advancement [Eye Spy]
-[17:20:04] [Server thread/INFO]: s0pis0ap has made the advancement [The End?]
-[17:20:05] [Server thread/INFO]: VictorPage has made the advancement [The End?]
-[17:20:07] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[17:20:07] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[17:20:08] [Server thread/WARN]: VictorPage moved too quickly! -1890.0584939467776,29.392604549951344,215.8235131103244
-[17:20:08] [Server thread/INFO]: DesWorld has made the advancement [The End?]
-[17:20:08] [Server thread/WARN]: VictorPage moved too quickly! -1890.0584939467776,29.392604549951344,215.8235131103244
-[17:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3908ms or 78 ticks behind
-[17:20:09] [Server thread/WARN]: DesWorld moved too quickly! -1889.8131389515859,29.464159374955443,216.01409909580812
-[17:20:11] [Server thread/INFO]: ST0RM5 has made the advancement [The End?]
-[17:21:36] [Server thread/INFO]: VictorPage has reached the goal [You Need a Mint]
-[17:21:54] [Server thread/INFO]: ST0RM5 has reached the goal [You Need a Mint]
-[17:22:22] [Server thread/INFO]: ST0RM5 was slain by Enderman
-[17:23:00] [Server thread/INFO]: DesWorld has reached the goal [You Need a Mint]
-[17:23:43] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[17:23:43] [Server thread/INFO]: VictorPage left the game
-[17:24:03] [Server thread/INFO]: ST0RM5 was slain by Enderman
-[17:24:46] [Server thread/INFO]: ST0RM5 was slain by Enderman
-[17:25:54] [Server thread/INFO]: s0pis0ap has made the advancement [Free the End]
-[17:26:57] [User Authenticator #11/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[17:26:57] [Server thread/INFO]: VictorPage[/192.168.1.7:57984] logged in with entity id 22638 at (-16.488391158917306, 63.0, 2.3792621738120876)
-[17:26:57] [Server thread/INFO]: VictorPage joined the game
-[17:27:55] [Server thread/INFO]: ST0RM5 has made the advancement [Remote Getaway]
-[17:29:11] [Server thread/INFO]: s0pis0ap has made the advancement [Remote Getaway]
-[17:29:14] [Server thread/INFO]: VictorPage has made the advancement [Remote Getaway]
-[17:30:39] [Server thread/INFO]: <DesWorld> -1039
-[17:30:56] [Server thread/INFO]: <DesWorld> -1039 461
-[17:33:33] [Server thread/INFO]: <VictorPage> -1396 678
-[17:34:00] [Server thread/INFO]: ST0RM5 has made the advancement [The City at the End of the Game]
-[17:34:06] [Server thread/INFO]: VictorPage has made the advancement [The City at the End of the Game]
-[17:39:51] [Server thread/INFO]: ST0RM5 lost connection: Disconnected
-[17:39:51] [Server thread/INFO]: ST0RM5 left the game
-[17:54:28] [Server thread/INFO]: s0pis0ap has made the advancement [The City at the End of the Game]
-[17:54:41] [Server thread/INFO]: DesWorld has made the advancement [The City at the End of the Game]
-[18:05:04] [Server thread/INFO]: <VictorPage> fish in brine
-[18:09:49] [Server thread/INFO]: <VictorPage> -2350 1351
-[18:10:12] [Server thread/INFO]: <s0pis0ap> w
-[18:13:35] [Server thread/WARN]: s0pis0ap moved too quickly! 7.021594812986223,-1.0,-7.747079899351775
-[18:16:46] [Server thread/INFO]: <DesWorld> -2573 736
-[18:20:55] [Server thread/WARN]: s0pis0ap moved too quickly! -5.320173228146359,-37.0,1.3330226868770296
-[18:20:55] [Server thread/WARN]: s0pis0ap moved too quickly! -5.320173228146359,-37.0,1.3330226868770296
-[18:21:27] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[18:21:27] [Server thread/INFO]: VictorPage left the game
-[18:27:32] [User Authenticator #12/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
-[18:27:32] [Server thread/INFO]: VictorPage[/192.168.1.7:54574] logged in with entity id 34229 at (-2535.3126200551555, 127.5, 1346.3133688499822)
-[18:27:32] [Server thread/INFO]: VictorPage joined the game
-[18:27:43] [Server thread/INFO]: <DesWorld> test
-[18:31:23] [Server thread/INFO]: <VictorPage> 2573
-[18:40:02] [Server thread/INFO]: VictorPage lost connection: Disconnected
-[18:40:02] [Server thread/INFO]: VictorPage left the game
-[18:40:11] [Server thread/INFO]: DesWorld lost connection: Disconnected
-[18:40:11] [Server thread/INFO]: DesWorld left the game
-[18:40:32] [Server thread/INFO]: s0pis0ap lost connection: Disconnected
-[18:40:50] [Server thread/INFO]: s0pis0ap left the game
-[18:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17514ms or 350 ticks behind
-[18:40:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:40:55] [Server thread/INFO]: sstop<--[HERE]
-[18:40:58] [Server thread/INFO]: Stopping the server
-[18:40:58] [Server thread/INFO]: Stopping server
-[18:40:58] [Server thread/INFO]: Saving players
-[18:40:58] [Server thread/INFO]: Saving worlds
-[18:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
-[18:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[18:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
-[18:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
-[18:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
-[18:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:40:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:51:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:51:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:51:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:51:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:51:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:51:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:51:31] [main/INFO]: Reloading ResourceManager: Default
+[10:51:32] [Worker-Main-9/INFO]: Loaded 7 recipes
+[10:51:33] [Worker-Main-9/INFO]: Loaded 1137 advancements
+[10:51:35] [Server thread/INFO]: Starting minecraft server version 1.17
+[10:51:35] [Server thread/INFO]: Loading properties
+[10:51:35] [Server thread/INFO]: Default game type: SURVIVAL
+[10:51:35] [Server thread/INFO]: Generating keypair
+[10:51:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:51:36] [Server thread/INFO]: Using default channel type
+[10:51:37] [Server thread/INFO]: Preparing level "Victor world"
+[10:51:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:51:38] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:51:38] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:51:38] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[10:51:39] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[10:51:40] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:51:40] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:51:40] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[10:51:41] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[10:51:41] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[10:51:42] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[10:51:42] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[10:51:43] [Worker-Main-12/INFO]: Preparing spawn area: 17%
+[10:51:43] [Worker-Main-8/INFO]: Preparing spawn area: 24%
+[10:51:44] [Worker-Main-12/INFO]: Preparing spawn area: 48%
+[10:51:44] [Worker-Main-10/INFO]: Preparing spawn area: 70%
+[10:51:45] [Worker-Main-10/INFO]: Preparing spawn area: 99%
+[10:51:49] [Server thread/INFO]: Time elapsed: 11499 ms
+[10:51:49] [Server thread/INFO]: Done (11.880s)! For help, type "help"
+[10:51:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[10:54:47] [User Authenticator #1/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[10:54:48] [Server thread/INFO]: VictorPage[/192.168.1.7:61052] logged in with entity id 410 at (1986.300000011921, 17.0, -210.30000001192093)
+[10:54:48] [Server thread/INFO]: VictorPage joined the game
+[10:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[10:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[10:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[11:08:35] [Server thread/INFO]: <VictorPage> -55 65 165
+[11:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[11:12:38] [User Authenticator #2/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
+[11:12:39] [Server thread/INFO]: Lavaisten[/192.168.1.50:61136] logged in with entity id 5123 at (-193.04616252745438, 77.0, -1021.3006665551032)
+[11:12:39] [Server thread/INFO]: Lavaisten joined the game
+[11:12:41] [Server thread/WARN]: VictorPage moved too quickly! -3.1751099643747693,1.0,9.493263075169693
+[11:12:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3374ms or 67 ticks behind
+[11:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[11:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
+[11:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[11:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[11:14:55] [Server thread/INFO]: <VictorPage> -55 65 165
+[11:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[11:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
+[11:15:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[11:27:34] [Server thread/INFO]: <Lavaisten> test
+[11:33:04] [Server thread/INFO]: [VictorPage: Set own game mode to Spectator Mode]
+[11:33:07] [Server thread/INFO]: [VictorPage: Set own game mode to Creative Mode]
+[11:33:44] [Server thread/INFO]: [VictorPage: Set own game mode to Survival Mode]
+[11:35:23] [Server thread/INFO]: [VictorPage: Set own game mode to Creative Mode]
+[11:36:10] [Server thread/INFO]: [VictorPage: Set own game mode to Survival Mode]
+[11:56:39] [Server thread/INFO]: Lavaisten lost connection: Disconnected
+[11:56:39] [Server thread/INFO]: Lavaisten left the game
+[11:58:15] [User Authenticator #3/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
+[11:58:15] [Server thread/INFO]: Lavaisten[/192.168.1.50:61746] logged in with entity id 17978 at (-22.28451891634086, 65.0, 137.59181867337506)
+[11:58:15] [Server thread/INFO]: Lavaisten joined the game
+[12:04:38] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=10, y=65, z=100} gg{x=22, y=70, z=143}
+[12:05:04] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=29, y=76, z=137} gg{x=30, y=77, z=138}
+[12:06:03] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=28, y=66, z=127} gg{x=28, y=66, z=126}
+[12:06:03] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=28, y=66, z=127} gg{x=28, y=66, z=126}
+[12:06:04] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=28, y=66, z=127} gg{x=28, y=67, z=126}
+[12:08:07] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=47, y=68, z=132} gg{x=46, y=65, z=130}
+[12:08:07] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=47, y=67, z=132} gg{x=46, y=66, z=132}
+[12:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=47, y=68, z=132} gg{x=46, y=67, z=131}
+[12:08:08] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=47, y=68, z=132} gg{x=46, y=67, z=131}
+[12:08:17] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=44, y=67, z=133} gg{x=45, y=66, z=134}
+[12:23:23] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[12:23:23] [Server thread/INFO]: VictorPage left the game
+[12:26:52] [User Authenticator #4/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[12:26:52] [Server thread/INFO]: VictorPage[/192.168.1.7:50736] logged in with entity id 24896 at (-66.69999998807907, 55.0, 180.75686628026727)
+[12:26:52] [Server thread/INFO]: VictorPage joined the game
+[12:50:56] [User Authenticator #5/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[12:50:56] [Server thread/INFO]: DesWorld[/119.74.38.77:60365] logged in with entity id 29968 at (-3806.9007249168017, 61.0, 429.5270010280869)
+[12:50:56] [Server thread/INFO]: DesWorld joined the game
+[12:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[12:56:40] [Server thread/INFO]: <DesWorld> test
+[12:59:06] [Server thread/WARN]: DesWorld moved too quickly! 7.7200718438020886,-1.0,-7.438768804262509
+[13:02:59] [Server thread/WARN]: VictorPage moved too quickly! 7.416995273730848,-14.0,7.675942647479118
+[13:05:49] [Server thread/INFO]: <Lavaisten> 1970,-231
+[13:06:06] [Server thread/INFO]: <Lavaisten> 1970, -231
+[13:06:07] [Server thread/INFO]: <Lavaisten> 1970, -231
+[13:06:34] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.34170407445756723
+[13:06:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.42766043695996814
+[13:06:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 1.2309733730546668
+[13:06:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7964217373616407
+[13:06:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.8083984324864275
+[13:06:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.8149958585551076
+[13:06:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7755432164488525
+[13:06:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7583118459890841
+[13:06:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7547816037116775
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.757721908196487
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7600729434490461
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7613309355381261
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7620040620233226
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7633890857565575
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7699860317027003
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7751284388707518
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7778800384178624
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7793523644745335
+[13:06:43] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.42103083149109466
+[13:07:19] [Server thread/WARN]: Draco (vehicle of VictorPage) moved wrongly! 0.26645367088536887
+[13:07:32] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved too quickly! 0.09274150814098903,7.0,-7.353045510744778
+[13:07:32] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved too quickly! -0.36193884873517845,7.0,-7.761965844470666
+[13:07:32] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved too quickly! -0.8310536692843016,7.0,-8.16136577320836
+[13:07:32] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved too quickly! -1.2020450091125099,7.0,-8.63179755835236
+[13:07:55] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[13:07:55] [Server thread/INFO]: DesWorld left the game
+[13:08:40] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.4461046809404934
+[13:09:36] [User Authenticator #6/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[13:09:36] [Server thread/INFO]: DesWorld[/119.74.38.77:60475] logged in with entity id 36184 at (-3522.931482609098, 62.0, 561.2854866637625)
+[13:09:36] [Server thread/INFO]: DesWorld joined the game
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.28149949312228273
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7153767329431275
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 1.2264341747539902
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 1.7554965520527048
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.2705186210748707
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.7654223209764268
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 1.2823645292038477
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 1.8499171436867297
+[13:09:37] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 2.4407118830882584
+[13:09:52] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[13:09:52] [Server thread/INFO]: DesWorld left the game
+[13:10:25] [User Authenticator #7/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[13:10:25] [Server thread/INFO]: DesWorld[/119.74.38.77:60587] logged in with entity id 36512 at (-3517.9324313126804, 61.0, 556.6066665165362)
+[13:10:25] [Server thread/INFO]: DesWorld joined the game
+[13:10:48] [Server thread/INFO]: <DesWorld> test
+[13:12:06] [Server thread/WARN]: Draco (vehicle of VictorPage) moved wrongly! 0.3120966941824008
+[13:12:06] [Server thread/WARN]: Draco (vehicle of VictorPage) moved wrongly! 0.6696431181594562
+[13:12:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[13:12:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.28043197320926083
+[13:13:28] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.26546463564818623
+[13:13:46] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.29708395689235717
+[13:13:46] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.4909440870320723
+[13:13:46] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.5371110466870715
+[13:13:46] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.5728967592085147
+[13:13:46] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.5947134184162491
+[13:13:46] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.6071414258786283
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.6136074349695968
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.6168638618734847
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.617993512725143
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.5871432233385171
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.5896983807778902
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.5966541292345418
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.5977174130554875
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.6059466829324827
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.612414310134358
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.6164956352717732
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.409904245975793
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.33253411037252123
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.309647087697138
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.3030770896428976
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.30069409977961925
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.299554545917573
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.29894479336624613
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.2986185269331827
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.29923401063166466
+[13:13:47] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.30048217797155985
+[13:13:48] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.3024624265449347
+[13:13:48] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.30084509478674837
+[13:13:48] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.28810985924507193
+[13:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13:17:06] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of Lavaisten) moved wrongly! 0.2724007535127555
+[13:18:57] [Server thread/WARN]: Draco (vehicle of VictorPage) moved wrongly! 0.3678909569075586
+[13:20:36] [Server thread/INFO]: Lavaisten has made the advancement [Eye Spy]
+[13:23:49] [Server thread/INFO]: Lavaisten has made the advancement [The End?]
+[13:25:13] [Server thread/INFO]: Lavaisten has made the advancement [Remote Getaway]
+[13:39:36] [Server thread/WARN]: DesWorld moved too quickly! -5.2391503291000845,-15.0,-0.40166536922060914
+[13:39:36] [Server thread/WARN]: DesWorld moved too quickly! -5.2391503291000845,-15.0,-0.40166536922060914
+[13:44:50] [Server thread/INFO]: [VictorPage: The difficulty has been set to Easy]
+[13:46:16] [Server thread/INFO]: <VictorPage> -1068 205
+[13:46:22] [Server thread/WARN]: DesWorld moved too quickly! 4.301600472403152,-20.0,4.567821259096718
+[13:46:22] [Server thread/WARN]: DesWorld moved too quickly! 4.301600472403152,-20.0,4.567821259096718
+[13:46:22] [Server thread/WARN]: DesWorld moved too quickly! 4.301600472403152,-20.0,4.567821259096718
+[13:50:33] [Server thread/INFO]: VictorPage has reached the goal [Sky's the Limit]
+[13:52:00] [Server thread/WARN]: DesWorld moved too quickly! -2.6076972929959084,-42.0,-2.861204328392887
+[13:52:01] [Server thread/WARN]: DesWorld moved too quickly! -2.6076972929959084,-42.0,-2.861204328392887
+[13:52:01] [Server thread/WARN]: DesWorld moved too quickly! -2.6076972929959084,-42.0,-2.861204328392887
+[13:52:32] [Server thread/WARN]: DesWorld moved too quickly! -4.998023856216605,-13.0,7.412855568003806
+[13:52:51] [Server thread/WARN]: DesWorld moved too quickly! 7.404935671614112,-8.0,4.679196538197857
+[13:58:37] [Server thread/WARN]: DesWorld moved too quickly! 2.1247800972323603,-42.0,-1.5988910056186114
+[13:58:37] [Server thread/WARN]: DesWorld moved too quickly! 2.1247800972323603,-42.0,-1.5988910056186114
+[14:01:52] [Server thread/INFO]: DesWorld has reached the goal [Sky's the Limit]
+[14:03:47] [Server thread/WARN]: DesWorld moved too quickly! -5.917258383139597,-68.0,2.787747185674334
+[14:03:47] [Server thread/WARN]: DesWorld moved too quickly! -5.917258383139597,-68.0,2.787747185674334
+[14:03:47] [Server thread/WARN]: DesWorld moved too quickly! -5.917258383139597,-68.0,2.787747185674334
+[14:05:30] [Server thread/WARN]: DesWorld moved too quickly! 7.01238838988229,-47.0,7.59108365054783
+[14:05:30] [Server thread/WARN]: DesWorld moved too quickly! 7.01238838988229,-47.0,7.59108365054783
+[14:05:30] [Server thread/WARN]: DesWorld moved too quickly! 7.01238838988229,-47.0,7.59108365054783
+[14:10:17] [Server thread/INFO]: <VictorPage> -1396 678
+[14:10:28] [Server thread/INFO]: <DesWorld> -2573 736
+[14:11:41] [Server thread/WARN]: VictorPage moved too quickly! 13.429620145526275,11.906275330977167,0.7837470185862401
+[14:11:44] [Server thread/WARN]: VictorPage moved too quickly! 12.067324357085354,15.022279262100994,-3.6449383000610567
+[14:11:46] [Server thread/WARN]: VictorPage moved too quickly! 18.4570366980667,-1.2242033635087353,-0.9184561009749643
+[14:11:56] [Server thread/WARN]: VictorPage moved too quickly! 18.35045952943227,-1.7513580392152193,-1.2963210931011133
+[14:12:37] [Server thread/WARN]: VictorPage moved too quickly! 17.40778028042382,1.0923720658353346,2.4853114888331334
+[14:12:37] [Server thread/WARN]: DesWorld moved too quickly! 8.822974597213033,-0.6044241013267069,-5.192627843563855
+[14:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
+[14:12:45] [Server thread/WARN]: VictorPage moved too quickly! 20.563988130932103,-1.706206258551532,0.22754520447207938
+[14:14:30] [Server thread/INFO]: <VictorPage> -96 -1518
+[14:14:34] [Server thread/INFO]: <VictorPage> -96 -1518 VIN
+[14:15:20] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1994, y=18, z=-221} gg{x=1993, y=17, z=-221}
+[14:16:15] [Server thread/WARN]: VictorPage moved too quickly! 19.04510758057755,1.40449068472401,0.5754164981798056
+[14:16:21] [Server thread/WARN]: VictorPage moved too quickly! 18.242673601038348,-1.0422197898417096,-0.48765755383877263
+[14:16:25] [Server thread/WARN]: VictorPage moved too quickly! 27.39649063103718,-0.931581221125299,-2.0380745772117734
+[14:16:32] [Server thread/WARN]: VictorPage moved too quickly! 21.524239105644824,-2.979943092130668,-23.95575763999023
+[14:16:54] [Server thread/WARN]: VictorPage moved too quickly! 16.394400362574743,-1.6378577869489845,-9.684189527386025
+[14:16:58] [Server thread/WARN]: VictorPage moved too quickly! 18.411567547972936,-1.6679862802053265,-10.952343187416432
+[14:17:05] [Server thread/WARN]: VictorPage moved too quickly! -5.202406761687598,-1.943917332983176,20.655653323380136
+[14:17:05] [Server thread/WARN]: VictorPage moved too quickly! -4.332930875320017,-1.6676331553088346,17.228040862613
+[14:17:10] [Server thread/WARN]: VictorPage moved too quickly! -4.774578666830621,-2.839183606977045,18.104259790944184
+[14:17:15] [Server thread/WARN]: VictorPage moved too quickly! -8.145414882713567,-1.1120609116489248,19.793597388158105
+[14:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
+[14:27:25] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[14:27:25] [Server thread/INFO]: VictorPage left the game
+[14:28:46] [User Authenticator #8/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[14:28:46] [Server thread/INFO]: VictorPage[/192.168.1.7:55183] logged in with entity id 70581 at (-5078.6905697653165, -31.42496783830573, 940.6520992463686)
+[14:28:46] [Server thread/INFO]: VictorPage joined the game
+[14:28:47] [Server thread/INFO]: [Lavaisten: Teleported VictorPage to Lavaisten]
+[14:28:52] [Server thread/INFO]: VictorPage fell from a high place
+[14:29:11] [Server thread/INFO]: Lavaisten has reached the goal [Sky's the Limit]
+[14:31:26] [Server thread/INFO]: DesWorld has made the advancement [Remote Getaway]
+[14:32:40] [Server thread/WARN]: VictorPage moved too quickly! 17.45474101949651,1.45489840679312,-1.8942461761288598
+[14:34:52] [Server thread/INFO]: <VictorPage> Base: -55 65 165
+[14:35:14] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.5065133564279165
+[14:35:59] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.3540641940246587
+[14:36:30] [Server thread/INFO]: <Lavaisten> 131, -2246
+[14:42:53] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.2688326883509466
+[14:42:53] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.8196451411923942
+[14:42:54] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.40823222470862675
+[14:42:54] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 1.005743585012624
+[14:43:05] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.27974843819720263
+[14:43:24] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.2592160895858342
+[14:43:24] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.6603290062955693
+[14:43:25] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.2736961736929691
+[14:43:25] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.5110351064031133
+[14:43:25] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.5567743665598149
+[14:43:25] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.5805609203891893
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.5934451105480373
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.6007547326877561
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.2730462935542448
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.3838442534079718
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.6065226330010468
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.6066028911457095
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.606049781359161
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.6062693835544906
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.6063868883106807
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.6071389053665825
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.6078845907809409
+[14:43:26] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.32526692461556195
+[14:44:10] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.40458827351477566
+[14:45:42] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved wrongly! 0.25424978116892305
+[14:46:36] [Server thread/INFO]: <VictorPage> 664 -3114 - ship+ big strong hold
+[14:47:40] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved too quickly! -2.034083006541948,0.0,10.159789997342266
+[14:47:40] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved too quickly! -2.1520168675759663,0.0,10.75777993792503
+[14:47:40] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved too quickly! -2.2681108120574365,0.0,11.35612668983962
+[14:47:40] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved too quickly! -2.3766406783384824,0.0,11.95583658749036
+[14:47:40] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved too quickly! -2.476722206987141,0.0,12.556971015919167
+[14:47:40] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved too quickly! -2.5722831986103927,0.0,13.15886768236524
+[14:47:40] [Server thread/WARN]: HeeHeeMaybeDeleteLater (vehicle of DesWorld) moved too quickly! -2.665425341001132,0.0,13.761172207176962
+[14:51:02] [Server thread/INFO]: Lavaisten lost connection: Disconnected
+[14:51:02] [Server thread/INFO]: Lavaisten left the game
+[14:52:41] [Server thread/INFO]: <VictorPage> beside Decor chest
+[14:53:31] [User Authenticator #9/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
+[14:53:32] [Server thread/INFO]: Lavaisten[/192.168.1.50:52797] logged in with entity id 85049 at (563.213232173635, -93.048071394065, -2595.8070563213355)
+[14:53:32] [Server thread/INFO]: Lavaisten joined the game
+[14:53:32] [Server thread/INFO]: [VictorPage: Teleported Lavaisten to VictorPage]
+[14:53:32] [Server thread/INFO]: Lavaisten fell from a high place
+[14:54:22] [Server thread/INFO]: [VictorPage: Teleported Lavaisten to VictorPage]
+[14:59:43] [Server thread/INFO]: <VictorPage> brb
+[15:15:44] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[15:15:44] [Server thread/INFO]: DesWorld left the game
+[15:16:36] [Server thread/INFO]: <VictorPage> End strong hold664 -3114-581 -3098-848 -2817-586 -2859End Exit Portals1396 678-148 -3351
+[15:19:23] [Server thread/INFO]: <VictorPage> -848 -2817 - Vin
+[15:40:48] [Server thread/INFO]: Lavaisten has made the advancement [The City at the End of the Game]
+[15:50:30] [Server thread/INFO]: <VictorPage> -848 -2817
+[15:59:57] [Server thread/INFO]: <VictorPage> -848 -2817
+[16:00:06] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[16:00:06] [Server thread/INFO]: VictorPage left the game
+[16:23:53] [Server thread/INFO]: Lavaisten has made the advancement [Local Brewery]
+[16:30:05] [Server thread/INFO]: Lavaisten lost connection: Disconnected
+[16:30:05] [Server thread/INFO]: Lavaisten left the game
+[16:34:13] [User Authenticator #10/INFO]: UUID of player VictorPage is e4161a00-68b4-4ede-8555-e9416f586801
+[16:34:14] [Server thread/INFO]: VictorPage[/192.168.1.7:61542] logged in with entity id 103775 at (-853.6999999880791, 61.0, -2816.300000011921)
+[16:34:14] [Server thread/INFO]: VictorPage joined the game
+[16:34:29] [User Authenticator #11/INFO]: UUID of player Lavaisten is edea1882-0be5-4bff-988f-6a5e3cc85512
+[16:34:29] [Server thread/INFO]: Lavaisten[/192.168.1.50:63664] logged in with entity id 103868 at (-798.6999999880791, 59.0, -2803.300000011921)
+[16:34:29] [Server thread/INFO]: Lavaisten joined the game
+[16:35:50] [Server thread/INFO]: <VictorPage> -148 -3351
+[16:42:22] [Server thread/INFO]: Lavaisten lost connection: Disconnected
+[16:42:22] [Server thread/INFO]: Lavaisten left the game
+[16:43:16] [User Authenticator #12/INFO]: UUID of player DesWorld is ea5fd3b1-930a-4d6d-aa66-706c799098ad
+[16:43:17] [Server thread/INFO]: DesWorld[/119.74.38.77:50817] logged in with entity id 105953 at (-54.12363171352181, 59.0, 163.37961998117584)
+[16:43:17] [Server thread/INFO]: DesWorld joined the game
+[16:50:25] [Server thread/INFO]: DesWorld lost connection: Disconnected
+[16:50:25] [Server thread/INFO]: DesWorld left the game
+[16:55:06] [Server thread/INFO]: VictorPage lost connection: Disconnected
+[16:55:06] [Server thread/INFO]: VictorPage left the game
+[16:55:14] [Server thread/INFO]: Stopping the server
+[16:55:14] [Server thread/INFO]: Stopping server
+[16:55:14] [Server thread/INFO]: Saving players
+[16:55:14] [Server thread/INFO]: Saving worlds
+[16:55:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:overworld
+[16:55:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[16:55:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_nether
+[16:55:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:55:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Victor world]'/minecraft:the_end
+[16:55:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:55:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (Victor world): All chunks are saved
+[16:55:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:55:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
